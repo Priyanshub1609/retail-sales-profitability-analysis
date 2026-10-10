@@ -1,0 +1,1001 @@
+order_id,order_date,city,category,product_name,quantity,unit_price,sales,profit
+ORD00001,2025-11-24,Lucknow,Electronics,Wireless Mouse,4,572.33,2289.32,348.72
+ORD00002,2025-02-14,Lucknow,Office Supplies,Backpack,1,1288.86,1288.86,241.31
+ORD00003,2025-04-12,Chennai,Office Supplies,Backpack,1,1441.49,1441.49,-144.99
+ORD00004,2025-06-24,Pune,Clothing,Jeans,1,1708.75,1708.75,335.52
+ORD00005,2025-06-26,Chennai,Office Supplies,Stapler,4,190.9,763.6,225.87
+ORD00006,2025-02-10,Mumbai,Office Supplies,Stapler,4,186.49,745.96,259.5
+ORD00007,2025-01-24,Kolkata,Furniture,Bookshelf,6,5223.22,31339.32,6851.95
+ORD00008,2025-11-22,Mumbai,Clothing,Jeans,2,1513.75,3027.5,674.27
+ORD00009,2025-11-08,Lucknow,Furniture,Study Table,1,8851.32,8851.32,1843.94
+ORD00010,2025-04-23,Bengaluru,Clothing,T-Shirt,1,634.94,634.94,165.38
+ORD00011,2025-10-18,Hyderabad,Clothing,Jeans,3,1579.26,4737.78,1546.07
+ORD00012,2025-03-13,Jaipur,Furniture,Bookshelf,4,4772.43,19089.72,3309.49
+ORD00013,2025-09-18,Chennai,Home & Kitchen,Mixer Grinder,4,3486.22,13944.88,1735.5
+ORD00014,2025-11-02,Delhi,Electronics,Monitor,2,13989.33,27978.66,4047.35
+ORD00015,2025-12-15,Jaipur,Electronics,Power Bank,4,1603.64,6414.56,1247.17
+ORD00016,2025-08-21,Hyderabad,Electronics,Keyboard,6,1281.16,7686.96,1316.23
+ORD00017,2025-11-24,Lucknow,Office Supplies,Printer Paper,1,427.1,427.1,75.3
+ORD00018,2025-01-01,Hyderabad,Office Supplies,Stapler,2,166.43,332.86,89.23
+ORD00019,2025-05-03,Mumbai,Electronics,Headphones,5,1994.99,9974.95,1233.95
+ORD00020,2025-09-30,Ahmedabad,Furniture,Study Table,3,9974.76,29924.28,2286.82
+ORD00021,2025-08-05,Lucknow,Furniture,Study Table,3,8890.0,26670.0,4199.72
+ORD00022,2025-08-20,Bengaluru,Electronics,Headphones,1,1753.88,1753.88,358.02
+ORD00023,2025-01-04,Bengaluru,Electronics,Wireless Mouse,1,659.52,659.52,176.45
+ORD00024,2025-05-23,Bengaluru,Home & Kitchen,Cookware Set,2,2647.84,5295.68,1383.13
+ORD00025,2025-08-31,Delhi,Home & Kitchen,Cookware Set,1,2612.44,2612.44,461.59
+ORD00026,2025-12-11,Bengaluru,Electronics,Wireless Mouse,2,584.79,1169.58,313.29
+ORD00027,2025-10-02,Kolkata,Home & Kitchen,Cookware Set,2,2403.2,4806.4,768.88
+ORD00028,2025-10-09,Bengaluru,Electronics,Wireless Mouse,3,611.36,1834.08,242.76
+ORD00029,2025-03-27,Delhi,Home & Kitchen,Water Bottle,2,490.6,981.2,367.35
+ORD00030,2025-07-19,Kolkata,Clothing,Sneakers,2,2949.1,5898.2,1574.12
+ORD00031,2025-03-21,Pune,Furniture,Bookshelf,1,4381.76,4381.76,866.35
+ORD00032,2025-01-30,Lucknow,Electronics,Power Bank,2,1653.4,3306.8,743.96
+ORD00033,2025-02-11,Ahmedabad,Furniture,Office Chair,3,6815.55,20446.65,2200.73
+ORD00034,2025-05-07,Hyderabad,Office Supplies,Notebook Pack,3,248.06,744.18,262.98
+ORD00035,2025-04-15,Mumbai,Clothing,Jeans,1,1486.07,1486.07,420.97
+ORD00036,2025-01-05,Mumbai,Home & Kitchen,Mixer Grinder,1,3030.06,3030.06,431.58
+ORD00037,2025-05-06,Lucknow,Clothing,Jacket,1,3466.96,3466.96,840.97
+ORD00038,2025-01-05,Mumbai,Office Supplies,Stapler,5,166.1,830.5,291.09
+ORD00039,2025-10-11,Hyderabad,Furniture,Bookshelf,2,4542.42,9084.84,1225.19
+ORD00040,2025-09-16,Hyderabad,Home & Kitchen,Bedsheet,5,1303.37,6516.85,1334.44
+ORD00041,2025-01-23,Lucknow,Electronics,Keyboard,4,1248.2,4992.8,658.61
+ORD00042,2025-12-28,Delhi,Home & Kitchen,Mixer Grinder,1,3545.32,3545.32,746.51
+ORD00043,2025-07-09,Delhi,Office Supplies,Printer Paper,2,363.68,727.36,107.9
+ORD00044,2025-07-03,Ahmedabad,Furniture,Study Table,3,8800.28,26400.84,3685.07
+ORD00045,2025-03-21,Pune,Furniture,Study Table,6,9705.33,58231.98,-5453.8
+ORD00046,2025-07-30,Kolkata,Furniture,Bookshelf,1,5060.55,5060.55,714.58
+ORD00047,2025-04-24,Bengaluru,Furniture,Desk Lamp,2,1188.57,2377.14,711.74
+ORD00048,2025-07-24,Chennai,Clothing,Jacket,4,3560.69,14242.76,2487.64
+ORD00049,2025-12-14,Hyderabad,Office Supplies,Stapler,5,166.57,832.85,304.21
+ORD00050,2025-01-20,Lucknow,Electronics,Power Bank,2,1590.42,3180.84,604.96
+ORD00051,2025-03-01,Lucknow,Home & Kitchen,Cookware Set,1,2639.83,2639.83,317.49
+ORD00052,2025-12-18,Mumbai,Furniture,Bookshelf,2,5322.01,10644.02,2419.63
+ORD00053,2025-06-03,Bengaluru,Office Supplies,Stapler,3,174.92,524.76,168.74
+ORD00054,2025-08-04,Chennai,Home & Kitchen,Cookware Set,3,2415.52,7246.56,-352.84
+ORD00055,2025-10-24,Jaipur,Office Supplies,Stapler,2,179.51,359.02,87.67
+ORD00056,2025-12-04,Bengaluru,Electronics,Keyboard,2,1247.1,2494.2,358.24
+ORD00057,2025-12-11,Ahmedabad,Clothing,Jeans,4,1491.87,5967.48,1118.27
+ORD00058,2025-02-07,Chennai,Home & Kitchen,Water Bottle,5,461.99,2309.95,796.78
+ORD00059,2025-05-05,Bengaluru,Furniture,Office Chair,5,7080.43,35402.15,7493.73
+ORD00060,2025-04-01,Kolkata,Office Supplies,Backpack,1,1336.75,1336.75,381.95
+ORD00061,2025-12-08,Lucknow,Office Supplies,Stapler,6,197.3,1183.8,364.64
+ORD00062,2025-08-07,Bengaluru,Office Supplies,Backpack,5,1489.05,7445.25,1682.24
+ORD00063,2025-11-23,Hyderabad,Clothing,Sneakers,3,2689.15,8067.45,1310.13
+ORD00064,2025-06-21,Mumbai,Clothing,T-Shirt,1,665.61,665.61,213.68
+ORD00065,2025-08-01,Ahmedabad,Home & Kitchen,Bedsheet,3,1189.76,3569.28,796.28
+ORD00066,2025-12-23,Chennai,Electronics,Power Bank,2,1351.95,2703.9,530.73
+ORD00067,2025-10-03,Chennai,Office Supplies,Printer Paper,2,384.02,768.04,128.8
+ORD00068,2025-03-26,Delhi,Home & Kitchen,Cookware Set,6,2543.77,15262.62,4046.25
+ORD00069,2025-02-12,Kolkata,Home & Kitchen,Cookware Set,4,2349.95,9399.8,1519.24
+ORD00070,2025-06-17,Kolkata,Clothing,Sneakers,1,3105.94,3105.94,675.39
+ORD00071,2025-01-10,Delhi,Office Supplies,Notebook Pack,6,244.25,1465.5,533.48
+ORD00072,2025-01-16,Mumbai,Furniture,Study Table,4,9330.24,37320.96,3290.48
+ORD00073,2025-10-16,Mumbai,Furniture,Desk Lamp,3,1175.59,3526.77,658.96
+ORD00074,2025-03-25,Chennai,Clothing,T-Shirt,3,773.05,2319.15,700.68
+ORD00075,2025-07-23,Hyderabad,Furniture,Office Chair,3,7037.72,21113.16,2298.29
+ORD00076,2025-12-17,Pune,Office Supplies,Notebook Pack,4,256.13,1024.52,273.11
+ORD00077,2025-02-05,Pune,Office Supplies,Stapler,1,178.63,178.63,51.52
+ORD00078,2025-11-22,Lucknow,Home & Kitchen,Cookware Set,2,2653.59,5307.18,1456.69
+ORD00079,2025-09-05,Mumbai,Home & Kitchen,Water Bottle,4,463.65,1854.6,522.2
+ORD00080,2025-05-23,Kolkata,Home & Kitchen,Cookware Set,4,2563.42,10253.68,2326.66
+ORD00081,2025-06-16,Hyderabad,Furniture,Desk Lamp,1,1183.08,1183.08,253.72
+ORD00082,2025-10-12,Bengaluru,Electronics,Power Bank,5,1378.25,6891.25,1758.73
+ORD00083,2025-12-20,Bengaluru,Home & Kitchen,Water Bottle,2,406.71,813.42,225.38
+ORD00084,2025-06-06,Pune,Office Supplies,Stapler,2,183.02,366.04,101.79
+ORD00085,2025-06-30,Lucknow,Home & Kitchen,Bedsheet,2,1140.86,2281.72,696.85
+ORD00086,2025-12-20,Lucknow,Furniture,Study Table,1,9058.71,9058.71,1503.14
+ORD00087,2025-11-02,Lucknow,Clothing,T-Shirt,4,675.62,2702.48,723.56
+ORD00088,2025-03-06,Kolkata,Clothing,T-Shirt,6,715.22,4291.32,1380.03
+ORD00089,2025-02-22,Hyderabad,Electronics,Power Bank,2,1507.98,3015.96,586.64
+ORD00090,2025-09-02,Jaipur,Electronics,Wireless Mouse,2,549.78,1099.56,253.68
+ORD00091,2025-10-16,Ahmedabad,Clothing,T-Shirt,6,648.24,3889.44,1292.5
+ORD00092,2025-04-26,Hyderabad,Office Supplies,Backpack,2,1396.36,2792.72,803.26
+ORD00093,2025-10-19,Bengaluru,Office Supplies,Notebook Pack,3,265.7,797.1,328.1
+ORD00094,2025-05-16,Ahmedabad,Electronics,Headphones,1,1838.59,1838.59,248.29
+ORD00095,2025-08-29,Bengaluru,Clothing,T-Shirt,1,738.87,738.87,238.27
+ORD00096,2025-05-16,Jaipur,Office Supplies,Printer Paper,2,407.92,815.84,157.96
+ORD00097,2025-02-06,Kolkata,Electronics,Headphones,4,1855.64,7422.56,1795.36
+ORD00098,2025-03-05,Mumbai,Home & Kitchen,Bedsheet,3,1328.87,3986.61,1076.69
+ORD00099,2025-11-03,Ahmedabad,Electronics,Monitor,3,12910.21,38730.63,2484.12
+ORD00100,2025-10-28,Kolkata,Electronics,Keyboard,3,1281.46,3844.38,453.75
+ORD00101,2025-05-23,Pune,Furniture,Desk Lamp,3,1109.0,3327.0,580.89
+ORD00102,2025-06-14,Lucknow,Electronics,Headphones,2,1894.69,3789.38,591.58
+ORD00103,2025-01-19,Lucknow,Home & Kitchen,Mixer Grinder,2,3107.58,6215.16,1586.29
+ORD00104,2025-01-01,Kolkata,Office Supplies,Backpack,2,1317.78,2635.56,547.89
+ORD00105,2025-01-27,Mumbai,Furniture,Bookshelf,3,5299.62,15898.86,2386.4
+ORD00106,2025-01-15,Bengaluru,Office Supplies,Printer Paper,3,387.35,1162.05,107.13
+ORD00107,2025-02-28,Hyderabad,Home & Kitchen,Mixer Grinder,3,2988.4,8965.2,2234.35
+ORD00108,2025-08-01,Lucknow,Home & Kitchen,Water Bottle,1,459.58,459.58,133.91
+ORD00109,2025-03-11,Hyderabad,Electronics,Keyboard,4,1305.56,5222.24,753.99
+ORD00110,2025-01-02,Kolkata,Clothing,Jacket,4,3288.27,13153.08,3098.74
+ORD00111,2025-10-03,Bengaluru,Home & Kitchen,Bedsheet,2,1281.4,2562.8,641.61
+ORD00112,2025-12-24,Chennai,Furniture,Desk Lamp,1,1177.68,1177.68,196.65
+ORD00113,2025-07-17,Mumbai,Furniture,Desk Lamp,6,1020.55,6123.3,1925.51
+ORD00114,2025-08-14,Jaipur,Electronics,Power Bank,5,1355.06,6775.3,1104.81
+ORD00115,2025-02-08,Lucknow,Home & Kitchen,Bedsheet,2,1262.87,2525.74,742.5
+ORD00116,2025-07-14,Hyderabad,Clothing,Sneakers,5,2542.11,12710.55,2045.73
+ORD00117,2025-04-27,Jaipur,Electronics,Monitor,6,13341.02,80046.12,13817.76
+ORD00118,2025-12-22,Jaipur,Clothing,T-Shirt,1,752.61,752.61,193.37
+ORD00119,2025-05-06,Chennai,Office Supplies,Backpack,3,1504.1,4512.3,799.57
+ORD00120,2025-11-14,Hyderabad,Furniture,Desk Lamp,5,1024.63,5123.15,1197.71
+ORD00121,2025-12-08,Pune,Electronics,Monitor,5,13113.43,65567.15,5591.31
+ORD00122,2025-10-28,Kolkata,Clothing,Sneakers,3,2801.41,8404.23,1666.89
+ORD00123,2025-02-24,Chennai,Furniture,Desk Lamp,3,1129.1,3387.3,1079.98
+ORD00124,2025-05-21,Kolkata,Electronics,Power Bank,4,1606.84,6427.36,1901.06
+ORD00125,2025-05-27,Jaipur,Furniture,Bookshelf,1,4520.78,4520.78,542.95
+ORD00126,2025-11-18,Mumbai,Electronics,Wireless Mouse,2,598.19,1196.38,266.47
+ORD00127,2025-06-01,Lucknow,Clothing,Sneakers,1,2601.41,2601.41,614.73
+ORD00128,2025-09-14,Pune,Clothing,Jeans,1,1730.29,1730.29,444.85
+ORD00129,2025-02-28,Chennai,Home & Kitchen,Mixer Grinder,1,3560.42,3560.42,846.04
+ORD00130,2025-10-13,Hyderabad,Clothing,T-Shirt,4,632.14,2528.56,748.08
+ORD00131,2025-10-27,Lucknow,Home & Kitchen,Bedsheet,1,1141.73,1141.73,221.5
+ORD00132,2025-06-17,Chennai,Office Supplies,Printer Paper,3,415.92,1247.76,204.99
+ORD00133,2025-03-01,Lucknow,Furniture,Office Chair,5,6285.24,31426.2,4676.85
+ORD00134,2025-03-11,Ahmedabad,Home & Kitchen,Water Bottle,2,498.99,997.98,340.75
+ORD00135,2025-03-21,Pune,Home & Kitchen,Mixer Grinder,4,3313.42,13253.68,3316.71
+ORD00136,2025-04-22,Lucknow,Home & Kitchen,Water Bottle,6,489.69,2938.14,722.48
+ORD00137,2025-11-27,Kolkata,Clothing,T-Shirt,2,659.23,1318.46,302.65
+ORD00138,2025-02-16,Bengaluru,Furniture,Office Chair,1,6326.92,6326.92,1443.87
+ORD00139,2025-02-05,Ahmedabad,Office Supplies,Printer Paper,3,431.55,1294.65,164.78
+ORD00140,2025-01-02,Delhi,Clothing,Jeans,6,1630.16,9780.96,3010.21
+ORD00141,2025-03-09,Delhi,Electronics,Keyboard,4,1142.81,4571.24,648.22
+ORD00142,2025-03-06,Mumbai,Home & Kitchen,Mixer Grinder,4,3215.28,12861.12,2887.1
+ORD00143,2025-08-20,Lucknow,Office Supplies,Printer Paper,5,363.82,1819.1,391.68
+ORD00144,2025-06-04,Kolkata,Home & Kitchen,Mixer Grinder,1,3217.2,3217.2,528.45
+ORD00145,2025-12-31,Ahmedabad,Home & Kitchen,Mixer Grinder,5,3106.77,15533.85,1922.06
+ORD00146,2025-11-21,Chennai,Office Supplies,Stapler,2,185.66,371.32,95.5
+ORD00147,2025-02-20,Pune,Electronics,Power Bank,3,1420.96,4262.88,904.79
+ORD00148,2025-08-21,Jaipur,Home & Kitchen,Water Bottle,3,435.94,1307.82,366.19
+ORD00149,2025-12-18,Pune,Home & Kitchen,Mixer Grinder,1,2940.1,2940.1,497.17
+ORD00150,2025-03-08,Pune,Office Supplies,Notebook Pack,3,255.89,767.67,240.08
+ORD00151,2025-12-07,Bengaluru,Home & Kitchen,Mixer Grinder,6,3302.69,19816.14,3096.54
+ORD00152,2025-03-21,Hyderabad,Home & Kitchen,Cookware Set,4,2442.56,9770.24,2042.0
+ORD00153,2025-10-21,Lucknow,Furniture,Desk Lamp,4,1225.84,4903.36,1426.62
+ORD00154,2025-01-14,Pune,Office Supplies,Stapler,1,172.82,172.82,57.37
+ORD00155,2025-01-04,Delhi,Furniture,Study Table,3,8893.55,26680.65,1939.68
+ORD00156,2025-02-16,Pune,Office Supplies,Printer Paper,2,399.92,799.84,92.13
+ORD00157,2025-10-18,Mumbai,Office Supplies,Notebook Pack,5,233.56,1167.8,444.59
+ORD00158,2025-05-20,Mumbai,Home & Kitchen,Water Bottle,2,448.76,897.52,245.66
+ORD00159,2025-06-26,Delhi,Home & Kitchen,Mixer Grinder,2,3357.65,6715.3,1194.39
+ORD00160,2025-04-23,Hyderabad,Home & Kitchen,Mixer Grinder,1,3092.2,3092.2,413.73
+ORD00161,2025-05-29,Bengaluru,Clothing,T-Shirt,1,745.04,745.04,177.4
+ORD00162,2025-09-14,Pune,Office Supplies,Stapler,1,196.13,196.13,-21.99
+ORD00163,2025-10-22,Ahmedabad,Home & Kitchen,Water Bottle,3,446.35,1339.05,-70.27
+ORD00164,2025-08-24,Mumbai,Clothing,T-Shirt,2,646.3,1292.6,361.55
+ORD00165,2025-07-22,Lucknow,Clothing,Jacket,1,3428.5,3428.5,487.6
+ORD00166,2025-09-19,Mumbai,Furniture,Bookshelf,2,5331.88,10663.76,1954.36
+ORD00167,2025-03-16,Kolkata,Clothing,Jeans,1,1493.81,1493.81,450.33
+ORD00168,2025-08-26,Pune,Office Supplies,Backpack,3,1531.67,4595.01,1161.98
+ORD00169,2025-11-18,Ahmedabad,Clothing,Jeans,2,1605.06,3210.12,902.11
+ORD00170,2025-01-29,Mumbai,Clothing,T-Shirt,2,699.59,1399.18,306.56
+ORD00171,2025-11-27,Delhi,Electronics,Power Bank,3,1476.88,4430.64,1031.69
+ORD00172,2025-08-19,Mumbai,Office Supplies,Printer Paper,2,401.86,803.72,91.73
+ORD00173,2025-06-25,Lucknow,Electronics,Power Bank,3,1362.92,4088.76,1035.35
+ORD00174,2025-09-25,Ahmedabad,Office Supplies,Printer Paper,2,440.78,881.56,133.99
+ORD00175,2025-01-27,Ahmedabad,Clothing,T-Shirt,2,715.93,1431.86,389.25
+ORD00176,2025-03-18,Chennai,Clothing,T-Shirt,3,651.78,1955.34,520.06
+ORD00177,2025-03-08,Lucknow,Office Supplies,Notebook Pack,2,245.72,491.44,190.02
+ORD00178,2025-02-17,Kolkata,Home & Kitchen,Bedsheet,1,1161.54,1161.54,397.46
+ORD00179,2025-04-09,Lucknow,Furniture,Study Table,1,8685.67,8685.67,1529.54
+ORD00180,2025-09-27,Jaipur,Electronics,Keyboard,5,1243.16,6215.8,1153.4
+ORD00181,2025-12-21,Kolkata,Office Supplies,Printer Paper,3,363.84,1091.52,161.86
+ORD00182,2025-11-09,Bengaluru,Clothing,Sneakers,1,2667.33,2667.33,812.19
+ORD00183,2025-07-08,Jaipur,Office Supplies,Backpack,2,1346.79,2693.58,568.61
+ORD00184,2025-04-13,Mumbai,Office Supplies,Printer Paper,5,364.59,1822.95,304.24
+ORD00185,2025-12-31,Jaipur,Office Supplies,Notebook Pack,2,266.97,533.94,162.13
+ORD00186,2025-08-12,Chennai,Electronics,Headphones,4,1970.31,7881.24,2040.26
+ORD00187,2025-09-15,Mumbai,Clothing,Jeans,2,1468.73,2937.46,634.27
+ORD00188,2025-11-29,Jaipur,Clothing,Jeans,1,1540.98,1540.98,481.96
+ORD00189,2025-12-28,Jaipur,Home & Kitchen,Water Bottle,3,494.68,1484.04,345.84
+ORD00190,2025-10-08,Chennai,Office Supplies,Backpack,1,1348.74,1348.74,267.3
+ORD00191,2025-11-24,Lucknow,Office Supplies,Backpack,1,1517.7,1517.7,349.03
+ORD00192,2025-10-22,Jaipur,Furniture,Study Table,2,8103.1,16206.2,1725.16
+ORD00193,2025-12-07,Lucknow,Electronics,Power Bank,6,1372.33,8233.98,1845.81
+ORD00194,2025-10-11,Delhi,Electronics,Monitor,5,11369.72,56848.6,6929.9
+ORD00195,2025-07-02,Pune,Electronics,Keyboard,1,1253.48,1253.48,133.6
+ORD00196,2025-03-10,Kolkata,Electronics,Keyboard,3,1294.77,3884.31,458.4
+ORD00197,2025-12-23,Hyderabad,Home & Kitchen,Cookware Set,4,2284.71,9138.84,2231.62
+ORD00198,2025-04-14,Lucknow,Electronics,Headphones,5,1744.98,8724.9,1392.6
+ORD00199,2025-08-31,Pune,Clothing,T-Shirt,4,659.43,2637.72,704.58
+ORD00200,2025-05-20,Pune,Electronics,Keyboard,2,1185.61,2371.22,380.24
+ORD00201,2025-04-06,Chennai,Home & Kitchen,Water Bottle,2,483.93,967.86,263.91
+ORD00202,2025-02-10,Hyderabad,Home & Kitchen,Cookware Set,3,2426.67,7280.01,966.87
+ORD00203,2025-08-17,Pune,Office Supplies,Backpack,1,1396.72,1396.72,309.43
+ORD00204,2025-11-11,Chennai,Home & Kitchen,Bedsheet,3,1288.95,3866.85,770.19
+ORD00205,2025-07-06,Delhi,Office Supplies,Printer Paper,6,372.56,2235.36,418.49
+ORD00206,2025-03-06,Ahmedabad,Electronics,Headphones,4,1765.07,7060.28,1209.12
+ORD00207,2025-03-20,Chennai,Home & Kitchen,Bedsheet,2,1281.45,2562.9,722.3
+ORD00208,2025-06-10,Lucknow,Clothing,Jeans,6,1449.12,8694.72,1823.87
+ORD00209,2025-03-02,Kolkata,Clothing,Jacket,3,3031.06,9093.18,2072.34
+ORD00210,2025-04-13,Mumbai,Electronics,Headphones,4,1799.01,7196.04,1826.27
+ORD00211,2025-12-16,Jaipur,Clothing,Jacket,3,3267.2,9801.6,1729.57
+ORD00212,2025-12-31,Kolkata,Furniture,Bookshelf,2,4448.16,8896.32,997.78
+ORD00213,2025-01-14,Mumbai,Clothing,Jacket,2,3572.04,7144.08,1077.07
+ORD00214,2025-06-08,Pune,Home & Kitchen,Water Bottle,2,481.15,962.3,348.1
+ORD00215,2025-11-25,Lucknow,Electronics,Monitor,2,12672.74,25345.48,2041.16
+ORD00216,2025-11-24,Mumbai,Office Supplies,Printer Paper,4,371.35,1485.4,253.2
+ORD00217,2025-09-23,Lucknow,Furniture,Bookshelf,1,4660.73,4660.73,901.82
+ORD00218,2025-05-26,Ahmedabad,Electronics,Keyboard,1,1332.48,1332.48,178.44
+ORD00219,2025-10-01,Ahmedabad,Electronics,Power Bank,3,1545.3,4635.9,1079.72
+ORD00220,2025-11-06,Ahmedabad,Clothing,T-Shirt,4,634.37,2537.48,551.33
+ORD00221,2025-05-16,Hyderabad,Furniture,Desk Lamp,3,997.33,2991.99,904.3
+ORD00222,2025-09-05,Kolkata,Furniture,Desk Lamp,2,1007.66,2015.32,341.77
+ORD00223,2025-08-26,Pune,Furniture,Bookshelf,3,4650.09,13950.27,2719.44
+ORD00224,2025-07-24,Kolkata,Furniture,Bookshelf,2,4432.13,8864.26,1051.99
+ORD00225,2025-05-07,Jaipur,Furniture,Office Chair,1,7201.9,7201.9,1499.91
+ORD00226,2025-06-17,Hyderabad,Office Supplies,Stapler,1,168.31,168.31,62.17
+ORD00227,2025-09-12,Pune,Electronics,Wireless Mouse,5,606.72,3033.6,863.57
+ORD00228,2025-01-25,Lucknow,Electronics,Keyboard,2,1312.94,2625.88,511.21
+ORD00229,2025-01-05,Delhi,Electronics,Monitor,1,11977.3,11977.3,1419.6
+ORD00230,2025-07-25,Kolkata,Electronics,Power Bank,3,1469.63,4408.89,820.83
+ORD00231,2025-10-09,Lucknow,Clothing,T-Shirt,1,644.89,644.89,173.93
+ORD00232,2025-07-07,Pune,Furniture,Study Table,3,8894.75,26684.25,1506.08
+ORD00233,2025-08-31,Pune,Office Supplies,Backpack,1,1535.08,1535.08,264.59
+ORD00234,2025-03-25,Ahmedabad,Home & Kitchen,Bedsheet,3,1213.93,3641.79,988.94
+ORD00235,2025-06-03,Delhi,Home & Kitchen,Mixer Grinder,2,3354.36,6708.72,1722.69
+ORD00236,2025-11-02,Delhi,Home & Kitchen,Bedsheet,6,1286.69,7720.14,2425.56
+ORD00237,2025-10-26,Bengaluru,Home & Kitchen,Cookware Set,2,2646.65,5293.3,1291.23
+ORD00238,2025-01-17,Bengaluru,Office Supplies,Notebook Pack,1,249.26,249.26,81.51
+ORD00239,2025-07-30,Bengaluru,Office Supplies,Backpack,5,1486.64,7433.2,1189.05
+ORD00240,2025-10-15,Pune,Clothing,Sneakers,2,2713.27,5426.54,964.35
+ORD00241,2025-10-07,Bengaluru,Clothing,Jacket,3,3015.35,9046.05,1532.79
+ORD00242,2025-06-02,Hyderabad,Clothing,Jeans,3,1612.13,4836.39,1241.83
+ORD00243,2025-05-28,Jaipur,Electronics,Power Bank,3,1475.3,4425.9,1313.72
+ORD00244,2025-05-29,Kolkata,Electronics,Keyboard,6,1100.86,6605.16,1570.98
+ORD00245,2025-04-20,Ahmedabad,Furniture,Bookshelf,5,5055.16,25275.8,2577.21
+ORD00246,2025-05-03,Chennai,Furniture,Office Chair,3,6609.39,19828.17,3411.86
+ORD00247,2025-06-19,Jaipur,Home & Kitchen,Mixer Grinder,3,2976.78,8930.34,2271.19
+ORD00248,2025-07-28,Delhi,Home & Kitchen,Water Bottle,3,479.84,1439.52,397.25
+ORD00249,2025-02-15,Jaipur,Office Supplies,Printer Paper,2,423.63,847.26,203.23
+ORD00250,2025-08-02,Hyderabad,Furniture,Office Chair,6,6417.7,38506.2,5747.49
+ORD00251,2025-01-20,Lucknow,Electronics,Keyboard,3,1108.33,3324.99,822.2
+ORD00252,2025-09-26,Jaipur,Home & Kitchen,Cookware Set,4,2507.41,10029.64,1512.97
+ORD00253,2025-08-23,Bengaluru,Clothing,Jeans,1,1558.66,1558.66,354.13
+ORD00254,2025-03-31,Jaipur,Office Supplies,Backpack,4,1418.71,5674.84,929.98
+ORD00255,2025-03-13,Hyderabad,Home & Kitchen,Bedsheet,5,1081.8,5409.0,1359.67
+ORD00256,2025-06-18,Kolkata,Clothing,T-Shirt,1,685.37,685.37,169.84
+ORD00257,2025-06-07,Mumbai,Furniture,Desk Lamp,3,1213.39,3640.17,1099.51
+ORD00258,2025-11-24,Ahmedabad,Clothing,Jacket,3,3034.27,9102.81,1377.9
+ORD00259,2025-07-11,Ahmedabad,Home & Kitchen,Water Bottle,4,484.4,1937.6,701.6
+ORD00260,2025-02-11,Lucknow,Office Supplies,Backpack,2,1371.43,2742.86,813.97
+ORD00261,2025-09-16,Ahmedabad,Furniture,Study Table,1,9791.88,9791.88,1181.83
+ORD00262,2025-09-08,Ahmedabad,Electronics,Power Bank,2,1368.36,2736.72,440.92
+ORD00263,2025-01-30,Delhi,Office Supplies,Backpack,3,1354.92,4064.76,623.87
+ORD00264,2025-04-22,Mumbai,Office Supplies,Notebook Pack,1,243.95,243.95,65.92
+ORD00265,2025-08-30,Chennai,Electronics,Keyboard,2,1283.01,2566.02,545.36
+ORD00266,2025-07-11,Lucknow,Home & Kitchen,Water Bottle,4,494.77,1979.08,574.14
+ORD00267,2025-03-10,Bengaluru,Clothing,T-Shirt,1,712.74,712.74,209.98
+ORD00268,2025-01-02,Bengaluru,Electronics,Keyboard,2,1269.84,2539.68,400.92
+ORD00269,2025-05-07,Delhi,Home & Kitchen,Bedsheet,1,1129.76,1129.76,372.86
+ORD00270,2025-12-05,Delhi,Home & Kitchen,Mixer Grinder,1,2927.37,2927.37,570.93
+ORD00271,2025-05-06,Jaipur,Electronics,Monitor,2,12734.34,25468.68,4602.23
+ORD00272,2025-09-15,Pune,Clothing,Jeans,4,1697.49,6789.96,1568.65
+ORD00273,2025-05-02,Lucknow,Clothing,Jeans,6,1623.48,9740.88,2397.91
+ORD00274,2025-10-30,Chennai,Furniture,Desk Lamp,3,1001.35,3004.05,646.19
+ORD00275,2025-09-26,Bengaluru,Clothing,Sneakers,2,2704.73,5409.46,970.57
+ORD00276,2025-04-26,Lucknow,Clothing,Jeans,4,1761.99,7047.96,1902.82
+ORD00277,2025-09-29,Pune,Furniture,Desk Lamp,1,1039.21,1039.21,273.8
+ORD00278,2025-02-17,Mumbai,Office Supplies,Printer Paper,1,393.19,393.19,73.45
+ORD00279,2025-04-07,Delhi,Office Supplies,Printer Paper,2,436.51,873.02,125.08
+ORD00280,2025-04-19,Bengaluru,Furniture,Office Chair,4,6928.69,27714.76,5995.0
+ORD00281,2025-07-23,Hyderabad,Furniture,Bookshelf,4,4721.98,18887.92,3123.76
+ORD00282,2025-07-04,Pune,Office Supplies,Backpack,2,1507.27,3014.54,800.62
+ORD00283,2025-04-15,Hyderabad,Clothing,Jacket,2,3276.02,6552.04,1083.73
+ORD00284,2025-10-11,Bengaluru,Office Supplies,Backpack,2,1320.43,2640.86,493.32
+ORD00285,2025-09-13,Kolkata,Office Supplies,Stapler,1,194.54,194.54,70.94
+ORD00286,2025-08-24,Lucknow,Furniture,Bookshelf,1,5080.65,5080.65,803.41
+ORD00287,2025-11-25,Delhi,Electronics,Power Bank,1,1629.41,1629.41,474.53
+ORD00288,2025-07-31,Delhi,Furniture,Study Table,1,8399.04,8399.04,713.88
+ORD00289,2025-11-13,Delhi,Office Supplies,Backpack,3,1264.85,3794.55,892.3
+ORD00290,2025-09-29,Jaipur,Clothing,Jacket,1,3452.46,3452.46,821.15
+ORD00291,2025-02-24,Hyderabad,Electronics,Power Bank,1,1413.34,1413.34,316.92
+ORD00292,2025-07-23,Hyderabad,Electronics,Keyboard,6,1201.18,7207.08,929.09
+ORD00293,2025-12-17,Delhi,Electronics,Wireless Mouse,1,590.06,590.06,128.89
+ORD00294,2025-12-26,Mumbai,Furniture,Office Chair,2,6470.49,12940.98,2529.96
+ORD00295,2025-09-28,Delhi,Electronics,Headphones,1,1963.77,1963.77,494.89
+ORD00296,2025-02-08,Jaipur,Clothing,T-Shirt,1,760.97,760.97,161.71
+ORD00297,2025-12-31,Lucknow,Home & Kitchen,Mixer Grinder,2,3277.03,6554.06,1249.67
+ORD00298,2025-06-19,Pune,Home & Kitchen,Cookware Set,4,2629.12,10516.48,1393.94
+ORD00299,2025-01-28,Ahmedabad,Electronics,Monitor,1,11459.05,11459.05,1797.09
+ORD00300,2025-07-23,Lucknow,Clothing,T-Shirt,3,750.67,2252.01,635.27
+ORD00301,2025-07-12,Bengaluru,Home & Kitchen,Cookware Set,3,2613.37,7840.11,1048.31
+ORD00302,2025-02-07,Pune,Electronics,Keyboard,1,1267.88,1267.88,242.7
+ORD00303,2025-07-04,Jaipur,Electronics,Wireless Mouse,1,580.69,580.69,108.93
+ORD00304,2025-02-14,Mumbai,Furniture,Desk Lamp,2,1124.25,2248.5,-124.55
+ORD00305,2025-11-02,Lucknow,Office Supplies,Stapler,4,162.49,649.96,179.53
+ORD00306,2025-05-05,Jaipur,Office Supplies,Printer Paper,3,374.92,1124.76,149.62
+ORD00307,2025-02-02,Bengaluru,Furniture,Desk Lamp,1,1062.54,1062.54,303.06
+ORD00308,2025-11-17,Ahmedabad,Home & Kitchen,Cookware Set,2,2324.52,4649.04,562.92
+ORD00309,2025-07-14,Jaipur,Clothing,Sneakers,2,3022.33,6044.66,1737.97
+ORD00310,2025-06-03,Kolkata,Clothing,Jeans,2,1502.53,3005.06,732.39
+ORD00311,2025-10-22,Ahmedabad,Furniture,Bookshelf,2,5182.22,10364.44,1480.76
+ORD00312,2025-04-13,Bengaluru,Office Supplies,Printer Paper,3,408.41,1225.23,297.09
+ORD00313,2025-08-13,Hyderabad,Clothing,T-Shirt,4,752.53,3010.12,829.18
+ORD00314,2025-05-04,Kolkata,Clothing,Jeans,3,1717.76,5153.28,988.58
+ORD00315,2025-10-26,Lucknow,Home & Kitchen,Water Bottle,3,483.28,1449.84,416.86
+ORD00316,2025-11-01,Delhi,Electronics,Wireless Mouse,4,626.8,2507.2,468.35
+ORD00317,2025-10-16,Lucknow,Home & Kitchen,Bedsheet,6,1193.64,7161.84,1372.84
+ORD00318,2025-09-23,Lucknow,Office Supplies,Printer Paper,2,394.42,788.84,168.48
+ORD00319,2025-03-19,Jaipur,Clothing,T-Shirt,2,675.5,1351.0,482.7
+ORD00320,2025-06-28,Kolkata,Clothing,Jacket,2,3025.63,6051.26,1254.23
+ORD00321,2025-12-23,Mumbai,Home & Kitchen,Bedsheet,1,1091.8,1091.8,-59.29
+ORD00322,2025-12-13,Kolkata,Furniture,Study Table,2,9192.78,18385.56,1892.95
+ORD00323,2025-04-29,Bengaluru,Home & Kitchen,Cookware Set,1,2611.52,2611.52,478.67
+ORD00324,2025-08-19,Mumbai,Office Supplies,Backpack,2,1477.06,2954.12,540.38
+ORD00325,2025-10-23,Kolkata,Electronics,Power Bank,1,1457.58,1457.58,310.77
+ORD00326,2025-09-28,Ahmedabad,Clothing,Sneakers,3,2881.59,8644.77,1777.95
+ORD00327,2025-03-30,Pune,Clothing,T-Shirt,3,678.23,2034.69,504.95
+ORD00328,2025-12-22,Lucknow,Furniture,Desk Lamp,2,1023.36,2046.72,453.13
+ORD00329,2025-12-22,Delhi,Furniture,Study Table,2,8377.79,16755.58,1681.13
+ORD00330,2025-07-03,Kolkata,Electronics,Monitor,1,13491.84,13491.84,2890.12
+ORD00331,2025-07-29,Bengaluru,Home & Kitchen,Water Bottle,3,448.94,1346.82,345.81
+ORD00332,2025-05-30,Kolkata,Electronics,Keyboard,1,1156.21,1156.21,248.49
+ORD00333,2025-10-09,Lucknow,Office Supplies,Notebook Pack,3,239.73,719.19,249.48
+ORD00334,2025-01-22,Hyderabad,Home & Kitchen,Cookware Set,6,2306.33,13837.98,3498.4
+ORD00335,2025-01-17,Bengaluru,Home & Kitchen,Bedsheet,2,1295.62,2591.24,674.37
+ORD00336,2025-04-18,Bengaluru,Office Supplies,Stapler,4,186.17,744.68,207.4
+ORD00337,2025-04-16,Hyderabad,Electronics,Power Bank,2,1442.76,2885.52,652.71
+ORD00338,2025-05-29,Jaipur,Office Supplies,Stapler,6,182.37,1094.22,387.38
+ORD00339,2025-07-30,Pune,Electronics,Keyboard,4,1113.5,4454.0,1018.06
+ORD00340,2025-05-07,Mumbai,Home & Kitchen,Water Bottle,1,467.61,467.61,154.52
+ORD00341,2025-11-21,Kolkata,Electronics,Monitor,2,12015.12,24030.24,5041.88
+ORD00342,2025-06-17,Pune,Office Supplies,Notebook Pack,4,271.59,1086.36,298.64
+ORD00343,2025-02-02,Hyderabad,Office Supplies,Backpack,1,1392.33,1392.33,256.04
+ORD00344,2025-06-22,Delhi,Office Supplies,Printer Paper,3,402.71,1208.13,175.18
+ORD00345,2025-01-24,Chennai,Electronics,Monitor,1,13805.94,13805.94,1177.33
+ORD00346,2025-04-14,Hyderabad,Furniture,Bookshelf,1,5304.96,5304.96,656.98
+ORD00347,2025-02-12,Chennai,Clothing,Jeans,1,1660.21,1660.21,491.68
+ORD00348,2025-12-02,Kolkata,Electronics,Wireless Mouse,1,602.94,602.94,91.18
+ORD00349,2025-01-05,Mumbai,Electronics,Keyboard,4,1340.87,5363.48,845.12
+ORD00350,2025-04-28,Jaipur,Home & Kitchen,Mixer Grinder,3,2952.11,8856.33,1329.66
+ORD00351,2025-07-15,Pune,Furniture,Study Table,1,9215.32,9215.32,1360.65
+ORD00352,2025-04-20,Jaipur,Furniture,Desk Lamp,3,1097.06,3291.18,640.99
+ORD00353,2025-03-05,Mumbai,Office Supplies,Backpack,2,1392.25,2784.5,770.12
+ORD00354,2025-05-08,Hyderabad,Office Supplies,Stapler,4,189.34,757.36,261.79
+ORD00355,2025-04-16,Bengaluru,Office Supplies,Printer Paper,4,386.01,1544.04,152.44
+ORD00356,2025-09-11,Delhi,Home & Kitchen,Mixer Grinder,1,3329.21,3329.21,370.75
+ORD00357,2025-07-04,Jaipur,Clothing,Jeans,2,1735.32,3470.64,858.42
+ORD00358,2025-08-30,Chennai,Electronics,Wireless Mouse,3,541.82,1625.46,267.42
+ORD00359,2025-09-17,Jaipur,Clothing,Sneakers,2,2767.8,5535.6,1397.66
+ORD00360,2025-05-23,Pune,Electronics,Keyboard,1,1323.12,1323.12,325.34
+ORD00361,2025-07-20,Bengaluru,Office Supplies,Notebook Pack,2,249.06,498.12,205.5
+ORD00362,2025-02-14,Jaipur,Home & Kitchen,Mixer Grinder,2,3308.62,6617.24,989.19
+ORD00363,2025-03-03,Hyderabad,Electronics,Headphones,3,1684.88,5054.64,1326.76
+ORD00364,2025-03-27,Delhi,Clothing,Jeans,4,1747.46,6989.84,2077.87
+ORD00365,2025-06-21,Kolkata,Home & Kitchen,Bedsheet,2,1149.42,2298.84,795.42
+ORD00366,2025-08-22,Mumbai,Office Supplies,Stapler,1,196.03,196.03,46.4
+ORD00367,2025-10-21,Pune,Electronics,Headphones,4,1621.02,6484.08,-159.5
+ORD00368,2025-07-16,Chennai,Furniture,Study Table,5,9797.82,48989.1,6782.95
+ORD00369,2025-04-25,Pune,Clothing,Jeans,2,1693.54,3387.08,756.68
+ORD00370,2025-03-03,Mumbai,Office Supplies,Notebook Pack,1,269.24,269.24,112.28
+ORD00371,2025-08-27,Ahmedabad,Clothing,Jacket,2,3269.38,6538.76,858.38
+ORD00372,2025-06-05,Bengaluru,Office Supplies,Printer Paper,2,412.07,824.14,139.23
+ORD00373,2025-10-07,Delhi,Furniture,Study Table,1,8911.87,8911.87,777.82
+ORD00374,2025-06-21,Bengaluru,Electronics,Monitor,4,13249.84,52999.36,4061.44
+ORD00375,2025-08-03,Bengaluru,Home & Kitchen,Mixer Grinder,6,2980.23,17881.38,2588.72
+ORD00376,2025-09-24,Chennai,Home & Kitchen,Bedsheet,2,1277.45,2554.9,722.84
+ORD00377,2025-02-08,Pune,Office Supplies,Notebook Pack,2,278.03,556.06,165.64
+ORD00378,2025-07-21,Ahmedabad,Clothing,Jacket,2,3044.46,6088.92,1710.8
+ORD00379,2025-02-25,Bengaluru,Furniture,Office Chair,1,6516.46,6516.46,880.0
+ORD00380,2025-08-20,Ahmedabad,Clothing,Sneakers,1,2593.87,2593.87,454.49
+ORD00381,2025-01-21,Delhi,Furniture,Bookshelf,1,5070.98,5070.98,1191.4
+ORD00382,2025-12-13,Lucknow,Clothing,Jacket,4,3002.4,12009.6,3390.74
+ORD00383,2025-10-09,Bengaluru,Furniture,Office Chair,2,6999.57,13999.14,-1442.43
+ORD00384,2025-03-08,Hyderabad,Furniture,Desk Lamp,2,1142.53,2285.06,601.31
+ORD00385,2025-02-08,Pune,Electronics,Wireless Mouse,1,625.27,625.27,162.25
+ORD00386,2025-03-04,Kolkata,Electronics,Monitor,1,13791.36,13791.36,1783.29
+ORD00387,2025-01-16,Jaipur,Home & Kitchen,Water Bottle,1,426.26,426.26,110.8
+ORD00388,2025-01-18,Mumbai,Office Supplies,Printer Paper,3,403.9,1211.7,280.2
+ORD00389,2025-05-24,Lucknow,Home & Kitchen,Cookware Set,2,2603.46,5206.92,1288.98
+ORD00390,2025-01-10,Pune,Home & Kitchen,Bedsheet,2,1286.3,2572.6,630.4
+ORD00391,2025-07-18,Hyderabad,Clothing,Jeans,1,1650.18,1650.18,304.77
+ORD00392,2025-01-30,Bengaluru,Home & Kitchen,Bedsheet,4,1343.9,5375.6,1859.08
+ORD00393,2025-05-17,Chennai,Office Supplies,Notebook Pack,4,277.13,1108.52,390.32
+ORD00394,2025-07-01,Ahmedabad,Furniture,Study Table,1,8729.65,8729.65,1467.43
+ORD00395,2025-01-15,Kolkata,Clothing,Jeans,3,1506.26,4518.78,1527.71
+ORD00396,2025-10-05,Lucknow,Clothing,Jeans,2,1471.77,2943.54,639.39
+ORD00397,2025-09-02,Pune,Electronics,Keyboard,5,1133.19,5665.95,628.23
+ORD00398,2025-01-31,Pune,Electronics,Headphones,3,1983.22,5949.66,1391.62
+ORD00399,2025-02-07,Chennai,Clothing,Sneakers,3,2727.32,8181.96,1649.62
+ORD00400,2025-11-24,Pune,Home & Kitchen,Bedsheet,1,1335.75,1335.75,402.02
+ORD00401,2025-04-25,Delhi,Office Supplies,Printer Paper,2,424.59,849.18,116.44
+ORD00402,2025-12-26,Pune,Office Supplies,Backpack,4,1497.42,5989.68,1442.3
+ORD00403,2025-11-10,Pune,Furniture,Office Chair,5,6051.12,30255.6,5726.02
+ORD00404,2025-03-27,Hyderabad,Electronics,Keyboard,2,1150.02,2300.04,298.84
+ORD00405,2025-02-25,Kolkata,Electronics,Wireless Mouse,2,636.7,1273.4,362.99
+ORD00406,2025-07-13,Bengaluru,Clothing,Sneakers,1,2815.37,2815.37,811.53
+ORD00407,2025-03-25,Mumbai,Home & Kitchen,Mixer Grinder,4,2903.52,11614.08,1198.72
+ORD00408,2025-02-07,Mumbai,Clothing,Jeans,5,1496.64,7483.2,1436.78
+ORD00409,2025-06-23,Chennai,Office Supplies,Backpack,3,1392.85,4178.55,1063.78
+ORD00410,2025-03-22,Lucknow,Electronics,Wireless Mouse,2,668.62,1337.24,261.41
+ORD00411,2025-05-16,Jaipur,Clothing,Jacket,1,2914.94,2914.94,645.61
+ORD00412,2025-01-28,Bengaluru,Clothing,T-Shirt,2,675.36,1350.72,426.72
+ORD00413,2025-02-19,Hyderabad,Electronics,Headphones,1,1735.56,1735.56,213.66
+ORD00414,2025-07-23,Pune,Home & Kitchen,Water Bottle,5,431.24,2156.2,717.36
+ORD00415,2025-07-15,Hyderabad,Clothing,Jeans,2,1532.68,3065.36,779.86
+ORD00416,2025-10-16,Lucknow,Electronics,Headphones,4,1884.32,7537.28,932.46
+ORD00417,2025-07-31,Lucknow,Office Supplies,Printer Paper,3,433.99,1301.97,287.66
+ORD00418,2025-12-18,Lucknow,Home & Kitchen,Cookware Set,2,2293.43,4586.86,1212.97
+ORD00419,2025-10-20,Bengaluru,Office Supplies,Printer Paper,1,426.63,426.63,50.2
+ORD00420,2025-04-09,Jaipur,Furniture,Office Chair,2,7263.24,14526.48,2028.81
+ORD00421,2025-11-01,Chennai,Clothing,Jacket,5,3523.58,17617.9,2479.22
+ORD00422,2025-10-10,Ahmedabad,Clothing,Jacket,2,3525.68,7051.36,930.63
+ORD00423,2025-09-25,Mumbai,Home & Kitchen,Mixer Grinder,2,2984.33,5968.66,1158.33
+ORD00424,2025-02-24,Hyderabad,Office Supplies,Notebook Pack,4,272.71,1090.84,437.23
+ORD00425,2025-07-16,Chennai,Home & Kitchen,Water Bottle,1,432.27,432.27,109.37
+ORD00426,2025-01-20,Pune,Home & Kitchen,Bedsheet,3,1093.01,3279.03,872.34
+ORD00427,2025-01-11,Bengaluru,Clothing,Jacket,2,3473.36,6946.72,1856.98
+ORD00428,2025-03-10,Mumbai,Clothing,Sneakers,4,2717.65,10870.6,2898.19
+ORD00429,2025-04-07,Pune,Home & Kitchen,Cookware Set,5,2473.94,12369.7,2443.18
+ORD00430,2025-01-29,Lucknow,Office Supplies,Printer Paper,1,422.44,422.44,65.28
+ORD00431,2025-10-19,Kolkata,Electronics,Headphones,1,1949.84,1949.84,475.6
+ORD00432,2025-01-26,Mumbai,Clothing,Jeans,1,1729.87,1729.87,451.19
+ORD00433,2025-12-15,Ahmedabad,Electronics,Headphones,2,1855.24,3710.48,513.58
+ORD00434,2025-10-10,Hyderabad,Clothing,Jacket,1,3509.72,3509.72,876.85
+ORD00435,2025-01-15,Bengaluru,Home & Kitchen,Mixer Grinder,1,3282.87,3282.87,835.12
+ORD00436,2025-12-13,Delhi,Furniture,Bookshelf,3,4862.02,14586.06,3184.73
+ORD00437,2025-08-31,Hyderabad,Furniture,Study Table,3,8116.76,24350.28,2200.84
+ORD00438,2025-12-31,Hyderabad,Clothing,Sneakers,5,3044.58,15222.9,3401.4
+ORD00439,2025-12-13,Pune,Office Supplies,Backpack,3,1262.26,3786.78,1173.56
+ORD00440,2025-10-15,Pune,Office Supplies,Stapler,2,166.28,332.56,73.23
+ORD00441,2025-05-22,Ahmedabad,Clothing,Jacket,1,3244.17,3244.17,546.48
+ORD00442,2025-07-26,Chennai,Clothing,Jeans,3,1670.7,5012.1,1702.08
+ORD00443,2025-07-27,Bengaluru,Home & Kitchen,Mixer Grinder,3,3580.31,10740.93,2476.45
+ORD00444,2025-12-18,Lucknow,Office Supplies,Backpack,5,1466.94,7334.7,1695.57
+ORD00445,2025-04-03,Jaipur,Clothing,T-Shirt,2,744.1,1488.2,485.2
+ORD00446,2025-12-15,Pune,Clothing,T-Shirt,1,664.39,664.39,232.16
+ORD00447,2025-07-10,Ahmedabad,Clothing,Jacket,2,2962.92,5925.84,821.25
+ORD00448,2025-11-14,Hyderabad,Electronics,Monitor,5,12626.31,63131.55,12550.53
+ORD00449,2025-07-31,Kolkata,Electronics,Headphones,1,1699.32,1699.32,298.18
+ORD00450,2025-03-15,Delhi,Clothing,Jeans,4,1611.63,6446.52,1811.25
+ORD00451,2025-01-03,Mumbai,Home & Kitchen,Bedsheet,1,1284.22,1284.22,362.41
+ORD00452,2025-03-08,Delhi,Office Supplies,Backpack,3,1384.25,4152.75,1264.31
+ORD00453,2025-10-01,Delhi,Furniture,Bookshelf,6,5261.96,31571.76,6348.94
+ORD00454,2025-12-13,Lucknow,Electronics,Headphones,1,1967.29,1967.29,314.64
+ORD00455,2025-10-29,Lucknow,Clothing,Jeans,1,1456.09,1456.09,483.06
+ORD00456,2025-11-02,Kolkata,Office Supplies,Stapler,2,189.2,378.4,87.56
+ORD00457,2025-07-03,Jaipur,Furniture,Study Table,5,9918.05,49590.25,5680.2
+ORD00458,2025-04-19,Chennai,Electronics,Power Bank,2,1390.64,2781.28,705.83
+ORD00459,2025-11-24,Delhi,Clothing,T-Shirt,3,637.39,1912.17,434.63
+ORD00460,2025-12-20,Bengaluru,Electronics,Monitor,2,11589.89,23179.78,2328.13
+ORD00461,2025-12-22,Jaipur,Electronics,Keyboard,2,1106.66,2213.32,383.46
+ORD00462,2025-08-03,Bengaluru,Electronics,Power Bank,3,1388.85,4166.55,659.32
+ORD00463,2025-11-08,Jaipur,Furniture,Bookshelf,4,5347.61,21390.44,2936.21
+ORD00464,2025-01-21,Delhi,Office Supplies,Backpack,5,1471.97,7359.85,1670.0
+ORD00465,2025-12-10,Lucknow,Electronics,Wireless Mouse,4,628.31,2513.24,386.69
+ORD00466,2025-02-08,Delhi,Electronics,Keyboard,3,1200.58,3601.74,887.35
+ORD00467,2025-02-21,Mumbai,Furniture,Office Chair,4,6365.11,25460.44,4539.15
+ORD00468,2025-02-18,Kolkata,Electronics,Wireless Mouse,4,627.56,2510.24,394.82
+ORD00469,2025-11-15,Kolkata,Clothing,T-Shirt,2,682.78,1365.56,311.64
+ORD00470,2025-05-20,Delhi,Home & Kitchen,Water Bottle,4,469.24,1876.96,671.02
+ORD00471,2025-03-23,Ahmedabad,Electronics,Monitor,5,12577.36,62886.8,9497.85
+ORD00472,2025-07-14,Kolkata,Clothing,T-Shirt,4,765.51,3062.04,999.34
+ORD00473,2025-09-07,Lucknow,Electronics,Monitor,2,11424.17,22848.34,-2440.96
+ORD00474,2025-10-23,Ahmedabad,Office Supplies,Printer Paper,6,418.95,2513.7,362.29
+ORD00475,2025-02-18,Lucknow,Home & Kitchen,Cookware Set,2,2615.04,5230.08,1164.35
+ORD00476,2025-11-10,Jaipur,Electronics,Wireless Mouse,3,560.71,1682.13,447.14
+ORD00477,2025-02-08,Chennai,Home & Kitchen,Bedsheet,1,1336.12,1336.12,264.63
+ORD00478,2025-07-26,Kolkata,Furniture,Office Chair,2,6995.8,13991.6,1982.55
+ORD00479,2025-06-11,Lucknow,Electronics,Monitor,4,11298.87,45195.48,5629.11
+ORD00480,2025-01-01,Kolkata,Electronics,Power Bank,6,1560.39,9362.34,2644.09
+ORD00481,2025-06-24,Ahmedabad,Clothing,T-Shirt,4,760.02,3040.08,799.89
+ORD00482,2025-08-31,Hyderabad,Clothing,Sneakers,1,2987.74,2987.74,554.16
+ORD00483,2025-10-08,Chennai,Office Supplies,Stapler,3,163.81,491.43,116.11
+ORD00484,2025-02-24,Bengaluru,Clothing,Jeans,1,1767.44,1767.44,429.25
+ORD00485,2025-06-23,Kolkata,Electronics,Monitor,1,12991.41,12991.41,2176.62
+ORD00486,2025-08-23,Chennai,Office Supplies,Printer Paper,6,360.38,2162.28,449.31
+ORD00487,2025-10-27,Ahmedabad,Home & Kitchen,Cookware Set,3,2345.51,7036.53,1762.22
+ORD00488,2025-11-07,Chennai,Clothing,Sneakers,2,2895.14,5790.28,1510.12
+ORD00489,2025-06-25,Lucknow,Clothing,Sneakers,4,2605.12,10420.48,2567.65
+ORD00490,2025-06-03,Ahmedabad,Office Supplies,Stapler,3,199.05,597.15,185.84
+ORD00491,2025-05-29,Pune,Clothing,Jeans,6,1668.83,10012.98,3337.65
+ORD00492,2025-12-30,Lucknow,Electronics,Keyboard,3,1233.86,3701.58,891.44
+ORD00493,2025-05-27,Bengaluru,Home & Kitchen,Mixer Grinder,2,2897.79,5795.58,714.32
+ORD00494,2025-05-17,Bengaluru,Furniture,Bookshelf,3,4474.63,13423.89,1207.15
+ORD00495,2025-10-05,Bengaluru,Electronics,Keyboard,4,1107.05,4428.2,1013.55
+ORD00496,2025-11-28,Delhi,Office Supplies,Backpack,1,1501.57,1501.57,417.15
+ORD00497,2025-07-15,Delhi,Home & Kitchen,Water Bottle,6,501.61,3009.66,842.78
+ORD00498,2025-05-09,Ahmedabad,Furniture,Desk Lamp,4,1210.58,4842.32,1320.7
+ORD00499,2025-10-07,Mumbai,Office Supplies,Printer Paper,4,444.86,1779.44,243.91
+ORD00500,2025-04-06,Ahmedabad,Furniture,Office Chair,2,6462.77,12925.54,2055.88
+ORD00501,2025-05-11,Ahmedabad,Electronics,Keyboard,2,1327.5,2655.0,255.92
+ORD00502,2025-01-27,Pune,Office Supplies,Stapler,2,184.68,369.36,98.73
+ORD00503,2025-09-27,Chennai,Furniture,Study Table,2,9656.79,19313.58,1458.16
+ORD00504,2025-02-17,Ahmedabad,Clothing,Jeans,5,1673.49,8367.45,1949.37
+ORD00505,2025-09-29,Ahmedabad,Home & Kitchen,Mixer Grinder,1,3123.59,3123.59,432.48
+ORD00506,2025-05-05,Hyderabad,Electronics,Keyboard,2,1290.2,2580.4,279.04
+ORD00507,2025-01-13,Bengaluru,Office Supplies,Stapler,2,182.15,364.3,104.88
+ORD00508,2025-06-14,Delhi,Office Supplies,Notebook Pack,5,234.21,1171.05,483.65
+ORD00509,2025-11-17,Mumbai,Electronics,Headphones,3,1926.34,5779.02,1435.46
+ORD00510,2025-04-16,Kolkata,Office Supplies,Backpack,3,1549.44,4648.32,1252.73
+ORD00511,2025-06-19,Bengaluru,Electronics,Wireless Mouse,1,563.49,563.49,95.97
+ORD00512,2025-05-13,Mumbai,Home & Kitchen,Water Bottle,2,445.04,890.08,249.78
+ORD00513,2025-10-01,Pune,Electronics,Power Bank,1,1596.16,1596.16,235.09
+ORD00514,2025-09-15,Kolkata,Electronics,Keyboard,4,1159.56,4638.24,481.64
+ORD00515,2025-07-15,Lucknow,Home & Kitchen,Mixer Grinder,2,3255.56,6511.12,793.19
+ORD00516,2025-06-01,Pune,Furniture,Bookshelf,3,5285.36,15856.08,3285.42
+ORD00517,2025-01-06,Mumbai,Office Supplies,Printer Paper,1,360.44,360.44,66.85
+ORD00518,2025-06-06,Jaipur,Furniture,Bookshelf,1,5276.34,5276.34,1140.92
+ORD00519,2025-04-24,Lucknow,Office Supplies,Stapler,1,169.18,169.18,57.17
+ORD00520,2025-08-25,Kolkata,Office Supplies,Notebook Pack,2,228.7,457.4,126.11
+ORD00521,2025-06-19,Bengaluru,Clothing,Jeans,3,1522.56,4567.68,1030.57
+ORD00522,2025-06-12,Ahmedabad,Home & Kitchen,Water Bottle,2,470.28,940.56,320.69
+ORD00523,2025-07-06,Chennai,Clothing,Sneakers,1,2712.94,2712.94,747.97
+ORD00524,2025-05-22,Hyderabad,Clothing,Jeans,3,1556.71,4670.13,1199.25
+ORD00525,2025-09-07,Jaipur,Office Supplies,Notebook Pack,1,258.36,258.36,101.97
+ORD00526,2025-10-03,Lucknow,Furniture,Bookshelf,3,4981.71,14945.13,2935.05
+ORD00527,2025-11-20,Hyderabad,Electronics,Power Bank,3,1603.84,4811.52,837.41
+ORD00528,2025-10-06,Ahmedabad,Office Supplies,Backpack,3,1305.78,3917.34,833.61
+ORD00529,2025-05-29,Ahmedabad,Furniture,Desk Lamp,2,1011.91,2023.82,-88.82
+ORD00530,2025-12-17,Jaipur,Furniture,Study Table,2,8454.71,16909.42,3412.22
+ORD00531,2025-09-05,Delhi,Clothing,T-Shirt,1,705.1,705.1,155.16
+ORD00532,2025-12-09,Pune,Furniture,Bookshelf,2,5289.3,10578.6,2338.38
+ORD00533,2025-02-22,Chennai,Office Supplies,Stapler,4,172.43,689.72,204.91
+ORD00534,2025-07-07,Pune,Office Supplies,Notebook Pack,2,245.7,491.4,199.1
+ORD00535,2025-06-26,Bengaluru,Home & Kitchen,Water Bottle,5,405.65,2028.25,752.74
+ORD00536,2025-02-09,Mumbai,Office Supplies,Stapler,1,169.4,169.4,45.39
+ORD00537,2025-12-05,Bengaluru,Furniture,Desk Lamp,4,1164.3,4657.2,1103.96
+ORD00538,2025-10-30,Lucknow,Furniture,Desk Lamp,1,1000.44,1000.44,251.87
+ORD00539,2025-01-21,Ahmedabad,Office Supplies,Printer Paper,1,382.73,382.73,45.47
+ORD00540,2025-10-16,Kolkata,Electronics,Keyboard,5,1137.18,5685.9,1063.51
+ORD00541,2025-03-29,Lucknow,Furniture,Desk Lamp,3,1182.3,3546.9,1033.11
+ORD00542,2025-05-16,Jaipur,Furniture,Bookshelf,5,4949.94,24749.7,2252.59
+ORD00543,2025-02-25,Ahmedabad,Electronics,Headphones,2,1980.1,3960.2,869.26
+ORD00544,2025-02-19,Mumbai,Furniture,Desk Lamp,5,1135.15,5675.75,1705.22
+ORD00545,2025-02-17,Chennai,Home & Kitchen,Cookware Set,5,2546.61,12733.05,1530.41
+ORD00546,2025-09-25,Kolkata,Home & Kitchen,Bedsheet,5,1264.18,6320.9,1634.79
+ORD00547,2025-07-15,Mumbai,Clothing,T-Shirt,2,669.2,1338.4,445.07
+ORD00548,2025-05-26,Lucknow,Office Supplies,Backpack,1,1261.68,1261.68,-91.16
+ORD00549,2025-01-04,Ahmedabad,Home & Kitchen,Cookware Set,3,2423.75,7271.25,1294.01
+ORD00550,2025-05-10,Bengaluru,Clothing,Sneakers,3,2896.92,8690.76,2682.73
+ORD00551,2025-07-31,Ahmedabad,Office Supplies,Backpack,1,1432.2,1432.2,325.68
+ORD00552,2025-06-26,Jaipur,Home & Kitchen,Cookware Set,4,2612.61,10450.44,2504.45
+ORD00553,2025-02-21,Delhi,Furniture,Desk Lamp,4,1183.81,4735.24,1222.85
+ORD00554,2025-03-24,Mumbai,Home & Kitchen,Mixer Grinder,4,3459.57,13838.28,2428.16
+ORD00555,2025-02-02,Chennai,Clothing,Jeans,2,1654.38,3308.76,979.13
+ORD00556,2025-11-11,Kolkata,Office Supplies,Stapler,3,185.66,556.98,201.24
+ORD00557,2025-08-13,Ahmedabad,Electronics,Headphones,4,1988.58,7954.32,1534.42
+ORD00558,2025-09-19,Jaipur,Office Supplies,Printer Paper,3,419.31,1257.93,185.62
+ORD00559,2025-02-14,Mumbai,Clothing,Sneakers,2,2763.41,5526.82,1347.29
+ORD00560,2025-02-16,Hyderabad,Office Supplies,Stapler,3,184.14,552.42,167.53
+ORD00561,2025-04-26,Lucknow,Office Supplies,Printer Paper,2,395.55,791.1,71.79
+ORD00562,2025-02-24,Hyderabad,Office Supplies,Notebook Pack,2,243.7,487.4,135.85
+ORD00563,2025-10-03,Pune,Office Supplies,Stapler,3,200.26,600.78,180.3
+ORD00564,2025-08-23,Bengaluru,Home & Kitchen,Mixer Grinder,2,3061.51,6123.02,987.2
+ORD00565,2025-12-13,Hyderabad,Furniture,Bookshelf,2,4692.87,9385.74,1555.26
+ORD00566,2025-05-08,Jaipur,Clothing,T-Shirt,2,745.31,1490.62,394.6
+ORD00567,2025-09-01,Bengaluru,Clothing,Jacket,1,3283.89,3283.89,522.94
+ORD00568,2025-09-13,Bengaluru,Furniture,Study Table,3,9828.03,29484.09,2449.67
+ORD00569,2025-11-13,Kolkata,Clothing,Jeans,4,1482.2,5928.8,1141.64
+ORD00570,2025-11-11,Ahmedabad,Electronics,Power Bank,6,1629.84,9779.04,1949.86
+ORD00571,2025-05-21,Ahmedabad,Home & Kitchen,Cookware Set,6,2753.8,16522.8,2723.66
+ORD00572,2025-03-07,Chennai,Electronics,Power Bank,4,1507.85,6031.4,1366.25
+ORD00573,2025-12-18,Delhi,Furniture,Desk Lamp,6,1158.98,6953.88,1624.5
+ORD00574,2025-12-12,Lucknow,Furniture,Desk Lamp,3,1068.76,3206.28,827.36
+ORD00575,2025-05-15,Bengaluru,Furniture,Bookshelf,2,4967.42,9934.84,1376.45
+ORD00576,2025-08-03,Ahmedabad,Clothing,Jacket,4,3076.86,12307.44,1954.2
+ORD00577,2025-12-18,Bengaluru,Furniture,Office Chair,3,6999.85,20999.55,3335.87
+ORD00578,2025-03-16,Lucknow,Furniture,Desk Lamp,4,1032.74,4130.96,991.16
+ORD00579,2025-10-01,Jaipur,Clothing,Sneakers,2,2866.28,5732.56,1380.71
+ORD00580,2025-01-31,Pune,Furniture,Bookshelf,2,4985.13,9970.26,1515.25
+ORD00581,2025-07-04,Ahmedabad,Office Supplies,Stapler,2,178.31,356.62,94.92
+ORD00582,2025-04-12,Kolkata,Office Supplies,Printer Paper,6,385.05,2310.3,328.1
+ORD00583,2025-02-10,Pune,Home & Kitchen,Bedsheet,2,1332.54,2665.08,876.6
+ORD00584,2025-08-04,Pune,Office Supplies,Backpack,4,1281.97,5127.88,902.1
+ORD00585,2025-12-01,Pune,Clothing,Jacket,3,3158.4,9475.2,2577.55
+ORD00586,2025-10-28,Hyderabad,Office Supplies,Backpack,2,1316.64,2633.28,404.73
+ORD00587,2025-12-25,Lucknow,Electronics,Headphones,1,1660.79,1660.79,199.64
+ORD00588,2025-01-28,Mumbai,Electronics,Monitor,2,13989.04,27978.08,2143.92
+ORD00589,2025-12-02,Lucknow,Home & Kitchen,Bedsheet,1,1274.72,1274.72,332.58
+ORD00590,2025-03-29,Lucknow,Electronics,Wireless Mouse,3,653.57,1960.71,356.91
+ORD00591,2025-05-20,Kolkata,Office Supplies,Backpack,1,1552.13,1552.13,366.75
+ORD00592,2025-11-20,Lucknow,Office Supplies,Backpack,2,1456.97,2913.94,581.46
+ORD00593,2025-04-27,Jaipur,Electronics,Monitor,2,12383.56,24767.12,-1791.45
+ORD00594,2025-06-26,Hyderabad,Clothing,Sneakers,2,2943.67,5887.34,1346.49
+ORD00595,2025-01-05,Lucknow,Home & Kitchen,Bedsheet,3,1290.35,3871.05,1075.04
+ORD00596,2025-08-12,Hyderabad,Home & Kitchen,Cookware Set,1,2655.41,2655.41,484.23
+ORD00597,2025-02-10,Hyderabad,Home & Kitchen,Cookware Set,2,2689.98,5379.96,1173.45
+ORD00598,2025-05-26,Kolkata,Office Supplies,Stapler,2,195.8,391.6,93.66
+ORD00599,2025-11-13,Lucknow,Home & Kitchen,Bedsheet,3,1209.89,3629.67,875.85
+ORD00600,2025-01-12,Delhi,Furniture,Office Chair,2,6028.81,12057.62,-349.91
+ORD00601,2025-09-10,Delhi,Furniture,Bookshelf,2,5149.73,10299.46,1645.27
+ORD00602,2025-06-19,Bengaluru,Electronics,Headphones,1,1927.16,1927.16,234.0
+ORD00603,2025-05-09,Kolkata,Home & Kitchen,Mixer Grinder,1,3420.77,3420.77,478.34
+ORD00604,2025-05-07,Kolkata,Electronics,Headphones,2,1925.31,3850.62,744.64
+ORD00605,2025-07-19,Mumbai,Clothing,Jacket,1,3392.68,3392.68,845.31
+ORD00606,2025-05-10,Mumbai,Home & Kitchen,Bedsheet,1,1314.31,1314.31,431.34
+ORD00607,2025-05-01,Bengaluru,Home & Kitchen,Bedsheet,1,1289.72,1289.72,365.7
+ORD00608,2025-01-05,Mumbai,Electronics,Power Bank,4,1506.84,6027.36,1418.8
+ORD00609,2025-05-08,Delhi,Furniture,Desk Lamp,1,1139.71,1139.71,352.1
+ORD00610,2025-01-31,Lucknow,Clothing,Jeans,3,1718.6,5155.8,1031.84
+ORD00611,2025-11-27,Hyderabad,Clothing,Sneakers,3,2533.15,7599.45,1599.25
+ORD00612,2025-01-21,Lucknow,Home & Kitchen,Water Bottle,3,458.73,1376.19,424.44
+ORD00613,2025-06-28,Mumbai,Clothing,Sneakers,1,3032.11,3032.11,898.46
+ORD00614,2025-09-29,Chennai,Furniture,Desk Lamp,2,1053.73,2107.46,-176.61
+ORD00615,2025-04-05,Lucknow,Electronics,Power Bank,4,1606.09,6424.36,1144.86
+ORD00616,2025-07-18,Pune,Furniture,Desk Lamp,4,1027.3,4109.2,843.62
+ORD00617,2025-02-26,Delhi,Electronics,Power Bank,3,1364.45,4093.35,1187.27
+ORD00618,2025-04-14,Kolkata,Electronics,Monitor,1,11337.5,11337.5,1844.39
+ORD00619,2025-09-27,Kolkata,Office Supplies,Stapler,1,170.74,170.74,-19.14
+ORD00620,2025-02-10,Delhi,Home & Kitchen,Mixer Grinder,2,3403.41,6806.82,1650.44
+ORD00621,2025-11-12,Lucknow,Clothing,T-Shirt,3,758.51,2275.53,506.24
+ORD00622,2025-02-19,Jaipur,Electronics,Headphones,2,1695.03,3390.06,658.32
+ORD00623,2025-10-13,Chennai,Office Supplies,Backpack,4,1496.02,5984.08,1449.64
+ORD00624,2025-02-23,Ahmedabad,Furniture,Study Table,3,9099.29,27297.87,4236.77
+ORD00625,2025-08-15,Chennai,Clothing,Jacket,3,3581.78,10745.34,2849.41
+ORD00626,2025-06-15,Hyderabad,Office Supplies,Printer Paper,3,378.83,1136.49,241.52
+ORD00627,2025-07-04,Delhi,Home & Kitchen,Water Bottle,6,405.02,2430.12,572.41
+ORD00628,2025-09-23,Hyderabad,Furniture,Bookshelf,1,5359.52,5359.52,612.98
+ORD00629,2025-10-11,Ahmedabad,Office Supplies,Printer Paper,1,400.51,400.51,46.05
+ORD00630,2025-05-08,Mumbai,Furniture,Bookshelf,4,4417.05,17668.2,2543.65
+ORD00631,2025-06-16,Mumbai,Home & Kitchen,Cookware Set,2,2744.46,5488.92,1275.93
+ORD00632,2025-11-01,Pune,Clothing,T-Shirt,3,718.75,2156.25,479.89
+ORD00633,2025-06-28,Ahmedabad,Home & Kitchen,Water Bottle,5,416.93,2084.65,736.43
+ORD00634,2025-01-06,Lucknow,Home & Kitchen,Mixer Grinder,2,2908.99,5817.98,1084.41
+ORD00635,2025-12-24,Ahmedabad,Furniture,Study Table,1,9548.53,9548.53,1077.66
+ORD00636,2025-10-22,Mumbai,Office Supplies,Notebook Pack,1,240.94,240.94,77.85
+ORD00637,2025-09-01,Jaipur,Office Supplies,Notebook Pack,3,239.44,718.32,232.57
+ORD00638,2025-03-11,Lucknow,Home & Kitchen,Cookware Set,2,2608.74,5217.48,789.8
+ORD00639,2025-05-07,Mumbai,Furniture,Office Chair,1,6464.99,6464.99,1160.84
+ORD00640,2025-12-10,Hyderabad,Home & Kitchen,Water Bottle,2,423.86,847.72,241.71
+ORD00641,2025-03-28,Pune,Clothing,Sneakers,3,2791.33,8373.99,2494.39
+ORD00642,2025-03-21,Hyderabad,Electronics,Wireless Mouse,3,572.08,1716.24,393.64
+ORD00643,2025-01-08,Bengaluru,Clothing,T-Shirt,2,702.56,1405.12,369.69
+ORD00644,2025-04-15,Delhi,Office Supplies,Stapler,3,186.67,560.01,206.51
+ORD00645,2025-07-12,Hyderabad,Office Supplies,Notebook Pack,1,228.31,228.31,66.69
+ORD00646,2025-01-28,Pune,Home & Kitchen,Mixer Grinder,1,3344.9,3344.9,689.31
+ORD00647,2025-02-25,Mumbai,Electronics,Keyboard,4,1251.44,5005.76,635.67
+ORD00648,2025-06-11,Delhi,Home & Kitchen,Mixer Grinder,1,3232.46,3232.46,560.11
+ORD00649,2025-01-21,Pune,Furniture,Bookshelf,2,4735.43,9470.86,995.58
+ORD00650,2025-07-01,Hyderabad,Clothing,Jeans,6,1784.46,10706.76,2399.82
+ORD00651,2025-07-18,Jaipur,Electronics,Power Bank,5,1424.44,7122.2,1386.59
+ORD00652,2025-02-14,Ahmedabad,Home & Kitchen,Cookware Set,2,2565.09,5130.18,965.68
+ORD00653,2025-06-18,Jaipur,Home & Kitchen,Cookware Set,1,2326.22,2326.22,480.64
+ORD00654,2025-06-08,Ahmedabad,Office Supplies,Printer Paper,2,439.99,879.98,187.62
+ORD00655,2025-03-22,Jaipur,Clothing,T-Shirt,3,776.08,2328.24,533.03
+ORD00656,2025-01-16,Hyderabad,Clothing,Sneakers,6,2706.86,16241.16,4373.7
+ORD00657,2025-03-19,Ahmedabad,Furniture,Office Chair,1,5887.46,5887.46,1340.89
+ORD00658,2025-10-18,Kolkata,Office Supplies,Printer Paper,3,380.32,1140.96,107.45
+ORD00659,2025-03-10,Jaipur,Office Supplies,Backpack,3,1375.18,4125.54,1181.31
+ORD00660,2025-03-25,Chennai,Furniture,Study Table,1,9613.79,9613.79,503.78
+ORD00661,2025-04-24,Kolkata,Furniture,Study Table,1,9935.66,9935.66,2063.64
+ORD00662,2025-12-19,Chennai,Clothing,Sneakers,5,2783.37,13916.85,3815.92
+ORD00663,2025-06-10,Bengaluru,Home & Kitchen,Mixer Grinder,2,3197.93,6395.86,1485.9
+ORD00664,2025-09-23,Delhi,Office Supplies,Backpack,6,1272.09,7632.54,1617.97
+ORD00665,2025-04-08,Chennai,Clothing,Sneakers,2,2707.61,5415.22,1529.36
+ORD00666,2025-05-31,Mumbai,Office Supplies,Notebook Pack,3,274.7,824.1,275.39
+ORD00667,2025-09-14,Chennai,Electronics,Headphones,4,1991.39,7965.56,1763.4
+ORD00668,2025-06-15,Kolkata,Home & Kitchen,Mixer Grinder,1,3295.58,3295.58,705.32
+ORD00669,2025-02-16,Mumbai,Clothing,Jacket,3,3518.64,10555.92,2717.49
+ORD00670,2025-02-16,Lucknow,Electronics,Monitor,3,11484.59,34453.77,5966.18
+ORD00671,2025-11-10,Jaipur,Furniture,Desk Lamp,3,1000.63,3001.89,562.38
+ORD00672,2025-03-25,Kolkata,Furniture,Study Table,4,8201.59,32806.36,3257.34
+ORD00673,2025-05-28,Delhi,Furniture,Office Chair,5,7223.42,36117.1,2548.61
+ORD00674,2025-08-23,Ahmedabad,Home & Kitchen,Water Bottle,3,405.57,1216.71,451.68
+ORD00675,2025-12-04,Lucknow,Home & Kitchen,Water Bottle,2,412.86,825.72,269.2
+ORD00676,2025-05-23,Delhi,Office Supplies,Printer Paper,1,373.05,373.05,72.57
+ORD00677,2025-12-08,Jaipur,Office Supplies,Stapler,2,165.47,330.94,75.26
+ORD00678,2025-12-11,Hyderabad,Clothing,Jeans,6,1703.77,10222.62,2429.2
+ORD00679,2025-06-15,Kolkata,Clothing,Sneakers,4,2987.2,11948.8,3404.57
+ORD00680,2025-03-10,Delhi,Electronics,Keyboard,2,1189.23,2378.46,293.92
+ORD00681,2025-02-25,Hyderabad,Office Supplies,Notebook Pack,2,262.88,525.76,215.26
+ORD00682,2025-08-07,Ahmedabad,Office Supplies,Stapler,1,184.78,184.78,57.23
+ORD00683,2025-10-16,Bengaluru,Home & Kitchen,Water Bottle,2,422.81,845.62,276.94
+ORD00684,2025-01-01,Ahmedabad,Electronics,Wireless Mouse,2,645.17,1290.34,320.0
+ORD00685,2025-08-01,Hyderabad,Home & Kitchen,Mixer Grinder,2,3274.53,6549.06,-262.74
+ORD00686,2025-05-11,Pune,Electronics,Keyboard,2,1225.2,2450.4,521.26
+ORD00687,2025-06-24,Kolkata,Home & Kitchen,Mixer Grinder,4,3016.59,12066.36,2816.43
+ORD00688,2025-08-31,Pune,Electronics,Headphones,2,1868.37,3736.74,944.38
+ORD00689,2025-08-25,Lucknow,Home & Kitchen,Mixer Grinder,4,3090.74,12362.96,2670.33
+ORD00690,2025-01-10,Hyderabad,Furniture,Bookshelf,4,5257.76,21031.04,2872.32
+ORD00691,2025-01-16,Ahmedabad,Clothing,Sneakers,3,3038.92,9116.76,2200.39
+ORD00692,2025-03-01,Pune,Clothing,Jacket,3,3071.13,9213.39,1325.69
+ORD00693,2025-08-20,Bengaluru,Clothing,Jeans,2,1501.6,3003.2,720.39
+ORD00694,2025-02-17,Kolkata,Home & Kitchen,Mixer Grinder,4,3517.09,14068.36,1753.66
+ORD00695,2025-09-26,Jaipur,Clothing,Jacket,1,3493.75,3493.75,913.76
+ORD00696,2025-04-16,Delhi,Electronics,Monitor,2,13628.23,27256.46,2140.55
+ORD00697,2025-12-18,Hyderabad,Office Supplies,Notebook Pack,2,273.91,547.82,151.47
+ORD00698,2025-01-12,Lucknow,Office Supplies,Stapler,3,170.31,510.93,123.69
+ORD00699,2025-06-13,Lucknow,Home & Kitchen,Mixer Grinder,1,2990.88,2990.88,353.86
+ORD00700,2025-09-21,Hyderabad,Electronics,Headphones,3,1837.55,5512.65,845.47
+ORD00701,2025-10-21,Jaipur,Furniture,Study Table,1,9314.26,9314.26,970.53
+ORD00702,2025-01-15,Ahmedabad,Home & Kitchen,Mixer Grinder,1,2917.88,2917.88,490.89
+ORD00703,2025-10-31,Lucknow,Home & Kitchen,Bedsheet,2,1295.8,2591.6,788.01
+ORD00704,2025-02-10,Hyderabad,Home & Kitchen,Cookware Set,1,2691.29,2691.29,623.78
+ORD00705,2025-12-17,Pune,Home & Kitchen,Water Bottle,1,427.16,427.16,157.1
+ORD00706,2025-07-20,Pune,Furniture,Bookshelf,4,5251.82,21007.28,-1418.69
+ORD00707,2025-09-03,Chennai,Home & Kitchen,Cookware Set,2,2441.74,4883.48,1035.05
+ORD00708,2025-02-24,Ahmedabad,Clothing,T-Shirt,4,712.04,2848.16,780.77
+ORD00709,2025-05-05,Ahmedabad,Office Supplies,Printer Paper,6,393.78,2362.68,341.44
+ORD00710,2025-08-09,Ahmedabad,Home & Kitchen,Bedsheet,3,1142.34,3427.02,1014.46
+ORD00711,2025-09-07,Hyderabad,Electronics,Power Bank,3,1457.37,4372.11,680.41
+ORD00712,2025-07-27,Kolkata,Electronics,Power Bank,1,1618.64,1618.64,426.37
+ORD00713,2025-11-27,Delhi,Electronics,Wireless Mouse,1,558.34,558.34,124.47
+ORD00714,2025-03-17,Pune,Furniture,Desk Lamp,2,1084.38,2168.76,547.54
+ORD00715,2025-06-03,Mumbai,Office Supplies,Stapler,5,199.09,995.45,323.37
+ORD00716,2025-10-26,Pune,Electronics,Power Bank,6,1483.39,8900.34,1427.69
+ORD00717,2025-10-09,Delhi,Electronics,Wireless Mouse,3,648.34,1945.02,364.65
+ORD00718,2025-05-01,Bengaluru,Home & Kitchen,Water Bottle,3,475.47,1426.41,420.74
+ORD00719,2025-12-06,Chennai,Furniture,Desk Lamp,1,1124.41,1124.41,331.62
+ORD00720,2025-03-20,Kolkata,Clothing,Jeans,1,1465.25,1465.25,267.43
+ORD00721,2025-12-03,Ahmedabad,Home & Kitchen,Cookware Set,1,2603.23,2603.23,485.6
+ORD00722,2025-08-06,Bengaluru,Office Supplies,Printer Paper,2,397.32,794.64,175.78
+ORD00723,2025-04-06,Chennai,Home & Kitchen,Mixer Grinder,3,3476.15,10428.45,1437.87
+ORD00724,2025-10-07,Ahmedabad,Office Supplies,Stapler,1,163.5,163.5,46.98
+ORD00725,2025-09-04,Hyderabad,Electronics,Headphones,3,1828.46,5485.38,1357.61
+ORD00726,2025-08-27,Mumbai,Office Supplies,Notebook Pack,2,258.55,517.1,154.74
+ORD00727,2025-12-17,Kolkata,Office Supplies,Stapler,3,197.78,593.34,-38.81
+ORD00728,2025-10-21,Ahmedabad,Clothing,Sneakers,2,3122.3,6244.6,1231.05
+ORD00729,2025-06-05,Hyderabad,Office Supplies,Stapler,1,180.74,180.74,42.84
+ORD00730,2025-11-16,Hyderabad,Electronics,Keyboard,2,1113.48,2226.96,227.81
+ORD00731,2025-03-09,Ahmedabad,Office Supplies,Stapler,1,172.18,172.18,56.58
+ORD00732,2025-03-19,Lucknow,Home & Kitchen,Bedsheet,4,1148.97,4595.88,1388.53
+ORD00733,2025-01-17,Chennai,Clothing,T-Shirt,6,721.71,4330.26,1478.68
+ORD00734,2025-07-16,Delhi,Furniture,Desk Lamp,3,1030.48,3091.44,780.41
+ORD00735,2025-11-25,Lucknow,Clothing,T-Shirt,1,701.46,701.46,200.76
+ORD00736,2025-04-30,Kolkata,Home & Kitchen,Water Bottle,2,419.37,838.74,-94.54
+ORD00737,2025-07-15,Ahmedabad,Clothing,T-Shirt,1,711.82,711.82,189.78
+ORD00738,2025-11-30,Kolkata,Clothing,Jacket,1,3444.83,3444.83,588.57
+ORD00739,2025-12-12,Delhi,Furniture,Study Table,2,9441.88,18883.76,3945.09
+ORD00740,2025-12-11,Bengaluru,Electronics,Wireless Mouse,1,552.9,552.9,81.07
+ORD00741,2025-05-26,Bengaluru,Clothing,Jeans,1,1658.03,1658.03,313.54
+ORD00742,2025-11-03,Ahmedabad,Electronics,Wireless Mouse,1,619.82,619.82,117.86
+ORD00743,2025-04-05,Hyderabad,Electronics,Headphones,1,1804.91,1804.91,468.9
+ORD00744,2025-08-07,Pune,Clothing,Jacket,1,2932.09,2932.09,745.74
+ORD00745,2025-01-31,Chennai,Clothing,Jacket,1,2928.86,2928.86,839.73
+ORD00746,2025-04-02,Kolkata,Home & Kitchen,Mixer Grinder,1,3421.17,3421.17,461.66
+ORD00747,2025-05-13,Kolkata,Electronics,Wireless Mouse,1,615.42,615.42,104.68
+ORD00748,2025-03-18,Ahmedabad,Electronics,Wireless Mouse,3,575.17,1725.51,417.59
+ORD00749,2025-01-02,Mumbai,Office Supplies,Backpack,2,1384.41,2768.82,737.73
+ORD00750,2025-10-04,Lucknow,Furniture,Office Chair,2,6835.64,13671.28,2662.79
+ORD00751,2025-07-03,Lucknow,Clothing,Jacket,2,3325.12,6650.24,1884.76
+ORD00752,2025-06-24,Chennai,Electronics,Monitor,4,12047.39,48189.56,4457.5
+ORD00753,2025-12-05,Mumbai,Furniture,Bookshelf,3,5266.66,15799.98,2858.2
+ORD00754,2025-11-20,Kolkata,Home & Kitchen,Cookware Set,1,2356.2,2356.2,554.08
+ORD00755,2025-07-19,Delhi,Electronics,Power Bank,3,1514.9,4544.7,1337.93
+ORD00756,2025-01-19,Lucknow,Clothing,T-Shirt,2,741.04,1482.08,407.4
+ORD00757,2025-08-23,Kolkata,Office Supplies,Printer Paper,4,380.5,1522.0,154.52
+ORD00758,2025-12-01,Delhi,Electronics,Monitor,5,12950.52,64752.6,6399.45
+ORD00759,2025-03-30,Mumbai,Electronics,Keyboard,4,1105.69,4422.76,830.58
+ORD00760,2025-02-24,Pune,Electronics,Monitor,3,12942.98,38828.94,2721.82
+ORD00761,2025-12-14,Bengaluru,Home & Kitchen,Bedsheet,1,1260.6,1260.6,349.62
+ORD00762,2025-01-24,Pune,Office Supplies,Printer Paper,2,370.63,741.26,83.46
+ORD00763,2025-10-11,Ahmedabad,Furniture,Desk Lamp,1,1130.84,1130.84,205.07
+ORD00764,2025-07-12,Ahmedabad,Furniture,Office Chair,5,5965.43,29827.15,2122.38
+ORD00765,2025-05-26,Chennai,Home & Kitchen,Water Bottle,3,425.41,1276.23,424.18
+ORD00766,2025-05-03,Hyderabad,Furniture,Office Chair,3,6875.59,20626.77,3463.81
+ORD00767,2025-06-28,Ahmedabad,Home & Kitchen,Mixer Grinder,3,3015.1,9045.3,2332.39
+ORD00768,2025-07-05,Mumbai,Office Supplies,Printer Paper,2,415.13,830.26,102.37
+ORD00769,2025-03-18,Hyderabad,Home & Kitchen,Water Bottle,1,471.34,471.34,111.66
+ORD00770,2025-04-18,Delhi,Home & Kitchen,Bedsheet,2,1292.56,2585.12,804.86
+ORD00771,2025-10-03,Kolkata,Furniture,Study Table,4,9060.42,36241.68,2485.11
+ORD00772,2025-10-31,Mumbai,Office Supplies,Stapler,2,191.58,383.16,135.54
+ORD00773,2025-06-16,Mumbai,Furniture,Office Chair,1,6440.01,6440.01,656.84
+ORD00774,2025-08-30,Jaipur,Office Supplies,Backpack,1,1394.25,1394.25,257.36
+ORD00775,2025-07-18,Pune,Clothing,Jeans,2,1508.34,3016.68,716.08
+ORD00776,2025-03-07,Jaipur,Electronics,Power Bank,1,1395.05,1395.05,385.4
+ORD00777,2025-06-25,Jaipur,Furniture,Bookshelf,3,5153.76,15461.28,2815.19
+ORD00778,2025-10-23,Ahmedabad,Office Supplies,Printer Paper,1,435.41,435.41,73.27
+ORD00779,2025-08-31,Chennai,Home & Kitchen,Bedsheet,1,1193.02,1193.02,393.24
+ORD00780,2025-10-24,Kolkata,Furniture,Study Table,5,9878.54,49392.7,5771.22
+ORD00781,2025-09-16,Kolkata,Electronics,Monitor,2,12567.99,25135.98,4717.59
+ORD00782,2025-09-11,Jaipur,Furniture,Office Chair,3,5867.76,17603.28,3293.32
+ORD00783,2025-07-03,Kolkata,Clothing,Jeans,3,1471.94,4415.82,1133.83
+ORD00784,2025-10-20,Jaipur,Office Supplies,Notebook Pack,6,250.51,1503.06,424.13
+ORD00785,2025-07-09,Delhi,Home & Kitchen,Mixer Grinder,4,2929.77,11719.08,2847.14
+ORD00786,2025-06-01,Mumbai,Home & Kitchen,Bedsheet,3,1241.7,3725.1,1050.61
+ORD00787,2025-11-14,Chennai,Clothing,T-Shirt,2,770.14,1540.28,413.16
+ORD00788,2025-07-07,Bengaluru,Home & Kitchen,Mixer Grinder,2,3003.39,6006.78,1137.72
+ORD00789,2025-03-12,Bengaluru,Clothing,Jeans,2,1668.46,3336.92,994.34
+ORD00790,2025-04-26,Pune,Clothing,Jacket,5,3234.51,16172.55,3196.81
+ORD00791,2025-06-26,Lucknow,Home & Kitchen,Water Bottle,2,487.13,974.26,297.37
+ORD00792,2025-05-30,Mumbai,Home & Kitchen,Bedsheet,4,1329.58,5318.32,1698.71
+ORD00793,2025-04-07,Mumbai,Home & Kitchen,Mixer Grinder,1,3512.15,3512.15,513.26
+ORD00794,2025-03-26,Delhi,Clothing,T-Shirt,3,706.43,2119.29,741.75
+ORD00795,2025-05-31,Delhi,Home & Kitchen,Cookware Set,2,2481.07,4962.14,-193.06
+ORD00796,2025-04-29,Ahmedabad,Office Supplies,Stapler,2,175.57,351.14,110.04
+ORD00797,2025-12-07,Hyderabad,Office Supplies,Backpack,2,1434.71,2869.42,842.82
+ORD00798,2025-04-27,Kolkata,Home & Kitchen,Bedsheet,6,1283.21,7699.26,1521.15
+ORD00799,2025-03-27,Jaipur,Office Supplies,Printer Paper,3,385.1,1155.3,283.87
+ORD00800,2025-03-24,Jaipur,Furniture,Office Chair,1,6302.77,6302.77,568.74
+ORD00801,2025-04-16,Jaipur,Office Supplies,Notebook Pack,3,278.79,836.37,237.25
+ORD00802,2025-10-01,Kolkata,Clothing,T-Shirt,5,692.3,3461.5,1003.51
+ORD00803,2025-06-13,Hyderabad,Furniture,Office Chair,6,6630.99,39785.94,6015.06
+ORD00804,2025-08-31,Mumbai,Clothing,Jeans,4,1696.45,6785.8,2222.8
+ORD00805,2025-09-03,Bengaluru,Electronics,Headphones,3,1666.28,4998.84,569.7
+ORD00806,2025-08-17,Hyderabad,Clothing,T-Shirt,2,723.66,1447.32,349.13
+ORD00807,2025-04-11,Lucknow,Electronics,Wireless Mouse,2,598.8,1197.6,284.37
+ORD00808,2025-07-21,Pune,Furniture,Desk Lamp,2,1136.43,2272.86,706.73
+ORD00809,2025-07-23,Kolkata,Furniture,Desk Lamp,2,1080.23,2160.46,444.07
+ORD00810,2025-10-15,Hyderabad,Electronics,Headphones,3,1795.91,5387.73,1448.31
+ORD00811,2025-03-25,Kolkata,Home & Kitchen,Water Bottle,1,463.13,463.13,112.9
+ORD00812,2025-09-26,Hyderabad,Clothing,T-Shirt,5,720.96,3604.8,-302.37
+ORD00813,2025-08-01,Chennai,Furniture,Desk Lamp,3,1172.77,3518.31,640.01
+ORD00814,2025-05-29,Lucknow,Office Supplies,Backpack,1,1514.48,1514.48,429.41
+ORD00815,2025-08-26,Kolkata,Furniture,Office Chair,4,6070.25,24281.0,2865.82
+ORD00816,2025-03-05,Kolkata,Clothing,Sneakers,1,3078.58,3078.58,-297.0
+ORD00817,2025-02-04,Kolkata,Office Supplies,Stapler,3,184.4,553.2,193.03
+ORD00818,2025-12-22,Delhi,Electronics,Keyboard,2,1231.87,2463.74,554.94
+ORD00819,2025-03-16,Chennai,Clothing,Sneakers,5,2603.47,13017.35,2292.74
+ORD00820,2025-11-22,Jaipur,Clothing,T-Shirt,2,711.56,1423.12,512.05
+ORD00821,2025-02-18,Hyderabad,Office Supplies,Printer Paper,3,436.77,1310.31,291.27
+ORD00822,2025-05-19,Hyderabad,Clothing,T-Shirt,2,684.15,1368.3,318.81
+ORD00823,2025-07-10,Bengaluru,Home & Kitchen,Water Bottle,2,495.17,990.34,244.01
+ORD00824,2025-04-07,Delhi,Office Supplies,Notebook Pack,2,275.38,550.76,153.47
+ORD00825,2025-09-03,Lucknow,Clothing,Jacket,3,2977.87,8933.61,1793.07
+ORD00826,2025-06-25,Jaipur,Furniture,Bookshelf,1,5180.19,5180.19,598.71
+ORD00827,2025-12-19,Mumbai,Furniture,Bookshelf,1,4457.51,4457.51,412.66
+ORD00828,2025-02-09,Lucknow,Electronics,Monitor,4,11366.92,45467.68,3512.41
+ORD00829,2025-10-31,Mumbai,Electronics,Monitor,1,11945.78,11945.78,843.37
+ORD00830,2025-03-05,Hyderabad,Office Supplies,Printer Paper,3,377.6,1132.8,-39.14
+ORD00831,2025-10-24,Ahmedabad,Clothing,Jacket,1,3232.45,3232.45,797.02
+ORD00832,2025-02-04,Jaipur,Electronics,Power Bank,4,1524.52,6098.08,1552.14
+ORD00833,2025-10-03,Ahmedabad,Electronics,Wireless Mouse,5,661.5,3307.5,880.48
+ORD00834,2025-04-05,Bengaluru,Home & Kitchen,Mixer Grinder,1,3129.79,3129.79,503.08
+ORD00835,2025-07-28,Hyderabad,Electronics,Keyboard,1,1109.12,1109.12,123.94
+ORD00836,2025-10-13,Hyderabad,Electronics,Wireless Mouse,2,555.28,1110.56,194.77
+ORD00837,2025-12-18,Mumbai,Home & Kitchen,Cookware Set,3,2409.82,7229.46,1856.95
+ORD00838,2025-09-01,Lucknow,Clothing,Jeans,1,1677.3,1677.3,482.28
+ORD00839,2025-12-04,Jaipur,Electronics,Wireless Mouse,1,592.88,592.88,133.1
+ORD00840,2025-02-03,Chennai,Clothing,Jeans,2,1649.43,3298.86,1116.68
+ORD00841,2025-09-13,Ahmedabad,Clothing,Jacket,4,3443.89,13775.56,3869.78
+ORD00842,2025-07-27,Bengaluru,Home & Kitchen,Bedsheet,1,1200.02,1200.02,251.46
+ORD00843,2025-11-18,Jaipur,Furniture,Office Chair,1,5925.58,5925.58,479.48
+ORD00844,2025-07-15,Lucknow,Office Supplies,Stapler,1,186.63,186.63,42.07
+ORD00845,2025-09-10,Lucknow,Home & Kitchen,Cookware Set,2,2523.84,5047.68,1013.41
+ORD00846,2025-10-07,Chennai,Electronics,Wireless Mouse,6,656.18,3937.08,586.87
+ORD00847,2025-08-15,Jaipur,Home & Kitchen,Mixer Grinder,1,3271.89,3271.89,777.59
+ORD00848,2025-09-09,Kolkata,Home & Kitchen,Cookware Set,2,2463.99,4927.98,1193.76
+ORD00849,2025-12-04,Kolkata,Office Supplies,Backpack,2,1523.14,3046.28,703.9
+ORD00850,2025-10-30,Jaipur,Home & Kitchen,Bedsheet,4,1155.09,4620.36,923.28
+ORD00851,2025-07-07,Pune,Clothing,T-Shirt,4,726.27,2905.08,786.96
+ORD00852,2025-07-30,Mumbai,Clothing,T-Shirt,3,668.13,2004.39,628.76
+ORD00853,2025-06-06,Chennai,Electronics,Keyboard,1,1222.14,1222.14,117.3
+ORD00854,2025-10-18,Chennai,Office Supplies,Backpack,1,1474.36,1474.36,359.86
+ORD00855,2025-10-20,Pune,Home & Kitchen,Bedsheet,3,1293.4,3880.2,799.36
+ORD00856,2025-09-12,Mumbai,Office Supplies,Stapler,1,173.86,173.86,63.48
+ORD00857,2025-10-02,Ahmedabad,Furniture,Bookshelf,1,4633.97,4633.97,795.95
+ORD00858,2025-02-17,Chennai,Office Supplies,Notebook Pack,3,240.04,720.12,252.49
+ORD00859,2025-04-18,Lucknow,Clothing,T-Shirt,3,676.48,2029.44,687.29
+ORD00860,2025-06-10,Jaipur,Furniture,Desk Lamp,2,1141.24,2282.48,530.71
+ORD00861,2025-01-10,Kolkata,Office Supplies,Printer Paper,3,378.74,1136.22,277.17
+ORD00862,2025-05-18,Kolkata,Office Supplies,Backpack,5,1483.8,7419.0,1183.93
+ORD00863,2025-03-17,Mumbai,Furniture,Study Table,4,9615.75,38463.0,7117.94
+ORD00864,2025-11-21,Bengaluru,Furniture,Desk Lamp,1,1059.46,1059.46,196.73
+ORD00865,2025-07-27,Kolkata,Furniture,Office Chair,1,5889.62,5889.62,1163.36
+ORD00866,2025-10-14,Hyderabad,Home & Kitchen,Water Bottle,3,408.66,1225.98,313.23
+ORD00867,2025-05-23,Delhi,Office Supplies,Printer Paper,3,363.72,1091.16,224.34
+ORD00868,2025-02-12,Mumbai,Clothing,Jacket,4,3514.0,14056.0,2742.62
+ORD00869,2025-07-23,Ahmedabad,Furniture,Study Table,1,9554.27,9554.27,1903.88
+ORD00870,2025-09-26,Pune,Clothing,Sneakers,5,2666.66,13333.3,2260.85
+ORD00871,2025-10-27,Hyderabad,Home & Kitchen,Cookware Set,5,2369.9,11849.5,1624.45
+ORD00872,2025-08-14,Mumbai,Home & Kitchen,Bedsheet,4,1094.76,4379.04,1205.79
+ORD00873,2025-06-12,Jaipur,Office Supplies,Backpack,2,1335.87,2671.74,519.49
+ORD00874,2025-07-05,Delhi,Home & Kitchen,Bedsheet,4,1085.56,4342.24,1496.72
+ORD00875,2025-12-20,Mumbai,Furniture,Bookshelf,3,4646.59,13939.77,3252.95
+ORD00876,2025-10-01,Hyderabad,Furniture,Desk Lamp,2,1210.17,2420.34,539.44
+ORD00877,2025-06-04,Pune,Electronics,Headphones,2,1960.33,3920.66,531.78
+ORD00878,2025-11-26,Chennai,Home & Kitchen,Mixer Grinder,1,2936.39,2936.39,659.85
+ORD00879,2025-06-20,Ahmedabad,Home & Kitchen,Mixer Grinder,4,3371.73,13486.92,2441.31
+ORD00880,2025-10-08,Kolkata,Clothing,Sneakers,3,2989.38,8968.14,2265.53
+ORD00881,2025-11-25,Jaipur,Furniture,Office Chair,2,6748.46,13496.92,1622.27
+ORD00882,2025-05-08,Kolkata,Office Supplies,Printer Paper,4,420.35,1681.4,364.57
+ORD00883,2025-03-10,Chennai,Clothing,Jeans,3,1731.02,5193.06,1599.07
+ORD00884,2025-07-08,Delhi,Furniture,Desk Lamp,5,1218.63,6093.15,1837.05
+ORD00885,2025-10-13,Jaipur,Office Supplies,Printer Paper,5,445.72,2228.6,271.27
+ORD00886,2025-01-26,Ahmedabad,Home & Kitchen,Water Bottle,3,419.78,1259.34,482.69
+ORD00887,2025-03-02,Mumbai,Electronics,Power Bank,2,1653.6,3307.2,703.09
+ORD00888,2025-04-25,Chennai,Furniture,Study Table,5,9710.56,48552.8,4495.62
+ORD00889,2025-03-08,Chennai,Home & Kitchen,Cookware Set,3,2797.36,8392.08,1387.0
+ORD00890,2025-04-03,Bengaluru,Home & Kitchen,Cookware Set,1,2786.87,2786.87,439.43
+ORD00891,2025-07-09,Chennai,Office Supplies,Backpack,1,1404.42,1404.42,406.48
+ORD00892,2025-12-18,Delhi,Furniture,Desk Lamp,3,1168.14,3504.42,704.37
+ORD00893,2025-01-27,Ahmedabad,Clothing,Jeans,2,1564.71,3129.42,866.91
+ORD00894,2025-12-30,Pune,Electronics,Wireless Mouse,1,621.79,621.79,110.93
+ORD00895,2025-03-09,Kolkata,Office Supplies,Notebook Pack,3,239.32,717.96,244.54
+ORD00896,2025-03-09,Jaipur,Electronics,Keyboard,3,1194.29,3582.87,471.74
+ORD00897,2025-09-13,Hyderabad,Clothing,Jacket,5,3079.18,15395.9,4161.66
+ORD00898,2025-09-22,Jaipur,Clothing,Sneakers,5,2714.37,13571.85,4195.47
+ORD00899,2025-10-12,Jaipur,Home & Kitchen,Mixer Grinder,1,2918.42,2918.42,377.36
+ORD00900,2025-12-28,Lucknow,Home & Kitchen,Water Bottle,1,493.62,493.62,152.62
+ORD00901,2025-09-06,Bengaluru,Home & Kitchen,Water Bottle,1,476.26,476.26,120.82
+ORD00902,2025-05-26,Bengaluru,Furniture,Study Table,4,9728.69,38914.76,5452.72
+ORD00903,2025-10-26,Kolkata,Electronics,Power Bank,4,1409.59,5638.36,1619.71
+ORD00904,2025-12-13,Ahmedabad,Electronics,Keyboard,1,1259.87,1259.87,250.59
+ORD00905,2025-02-24,Hyderabad,Clothing,Jeans,1,1602.0,1602.0,469.76
+ORD00906,2025-11-01,Ahmedabad,Electronics,Keyboard,6,1253.23,7519.38,1820.77
+ORD00907,2025-03-08,Lucknow,Furniture,Office Chair,4,6254.62,25018.48,4946.24
+ORD00908,2025-11-05,Mumbai,Home & Kitchen,Mixer Grinder,2,3005.32,6010.64,1529.15
+ORD00909,2025-01-11,Jaipur,Furniture,Study Table,2,8896.74,17793.48,2732.13
+ORD00910,2025-03-03,Ahmedabad,Clothing,Sneakers,4,2973.31,11893.24,3537.91
+ORD00911,2025-03-09,Kolkata,Clothing,T-Shirt,4,708.95,2835.8,817.67
+ORD00912,2025-05-18,Chennai,Office Supplies,Backpack,1,1390.14,1390.14,290.42
+ORD00913,2025-02-17,Jaipur,Electronics,Power Bank,2,1502.96,3005.92,528.67
+ORD00914,2025-09-11,Jaipur,Office Supplies,Notebook Pack,2,249.05,498.1,201.81
+ORD00915,2025-03-07,Delhi,Clothing,Jeans,2,1544.01,3088.02,579.43
+ORD00916,2025-09-20,Hyderabad,Electronics,Power Bank,2,1381.18,2762.36,678.81
+ORD00917,2025-07-01,Jaipur,Clothing,T-Shirt,4,632.51,2530.04,831.07
+ORD00918,2025-07-21,Kolkata,Electronics,Wireless Mouse,2,632.98,1265.96,228.17
+ORD00919,2025-11-16,Ahmedabad,Clothing,Jacket,6,3493.43,20960.58,3352.66
+ORD00920,2025-05-13,Kolkata,Electronics,Monitor,2,11266.08,22532.16,1772.57
+ORD00921,2025-08-24,Chennai,Home & Kitchen,Water Bottle,2,485.5,971.0,319.15
+ORD00922,2025-06-04,Bengaluru,Electronics,Headphones,1,1695.56,1695.56,407.88
+ORD00923,2025-01-14,Lucknow,Furniture,Desk Lamp,3,1147.24,3441.72,790.65
+ORD00924,2025-04-08,Jaipur,Electronics,Keyboard,4,1119.12,4476.48,705.05
+ORD00925,2025-12-26,Ahmedabad,Home & Kitchen,Water Bottle,2,490.12,980.24,317.24
+ORD00926,2025-07-20,Kolkata,Electronics,Keyboard,1,1246.43,1246.43,254.39
+ORD00927,2025-10-24,Kolkata,Office Supplies,Stapler,1,177.83,177.83,51.95
+ORD00928,2025-04-29,Chennai,Electronics,Power Bank,1,1540.21,1540.21,351.97
+ORD00929,2025-08-31,Jaipur,Electronics,Monitor,3,13026.99,39080.97,5148.22
+ORD00930,2025-05-28,Pune,Furniture,Desk Lamp,2,1046.17,2092.34,408.33
+ORD00931,2025-11-05,Pune,Home & Kitchen,Cookware Set,5,2647.65,13238.25,2415.44
+ORD00932,2025-08-30,Bengaluru,Furniture,Study Table,2,9583.52,19167.04,3004.03
+ORD00933,2025-03-22,Bengaluru,Office Supplies,Backpack,1,1388.12,1388.12,428.93
+ORD00934,2025-10-13,Lucknow,Electronics,Wireless Mouse,2,574.43,1148.86,273.78
+ORD00935,2025-01-17,Hyderabad,Electronics,Keyboard,2,1243.04,2486.08,271.75
+ORD00936,2025-06-24,Lucknow,Clothing,T-Shirt,4,715.78,2863.12,1011.86
+ORD00937,2025-11-06,Mumbai,Electronics,Wireless Mouse,5,597.79,2988.95,607.18
+ORD00938,2025-02-24,Bengaluru,Office Supplies,Notebook Pack,4,227.31,909.24,251.74
+ORD00939,2025-07-05,Jaipur,Furniture,Bookshelf,3,5124.63,15373.89,2455.86
+ORD00940,2025-11-28,Delhi,Clothing,Jacket,4,2966.58,11866.32,1925.93
+ORD00941,2025-05-06,Chennai,Home & Kitchen,Bedsheet,2,1125.21,2250.42,523.36
+ORD00942,2025-07-04,Chennai,Furniture,Study Table,4,9148.71,36594.84,6439.03
+ORD00943,2025-07-31,Kolkata,Home & Kitchen,Water Bottle,6,456.1,2736.6,928.12
+ORD00944,2025-03-16,Jaipur,Electronics,Power Bank,5,1377.98,6889.9,1311.62
+ORD00945,2025-08-11,Delhi,Electronics,Monitor,4,13065.48,52261.92,8499.59
+ORD00946,2025-11-20,Pune,Office Supplies,Stapler,2,197.08,394.16,126.97
+ORD00947,2025-06-26,Bengaluru,Electronics,Keyboard,5,1241.15,6205.75,704.34
+ORD00948,2025-10-06,Bengaluru,Office Supplies,Backpack,3,1533.4,4600.2,1265.29
+ORD00949,2025-06-04,Lucknow,Electronics,Wireless Mouse,2,591.48,1182.96,289.85
+ORD00950,2025-10-04,Jaipur,Clothing,Jeans,1,1634.23,1634.23,430.48
+ORD00951,2025-01-12,Lucknow,Electronics,Power Bank,3,1429.64,4288.92,1131.7
+ORD00952,2025-02-26,Mumbai,Electronics,Keyboard,1,1213.98,1213.98,133.31
+ORD00953,2025-08-18,Ahmedabad,Clothing,T-Shirt,2,781.37,1562.74,529.55
+ORD00954,2025-11-18,Jaipur,Office Supplies,Printer Paper,2,385.04,770.08,166.0
+ORD00955,2025-07-13,Kolkata,Office Supplies,Printer Paper,1,405.45,405.45,48.98
+ORD00956,2025-02-20,Kolkata,Furniture,Desk Lamp,4,1009.83,4039.32,686.49
+ORD00957,2025-04-20,Chennai,Home & Kitchen,Mixer Grinder,2,3250.48,6500.96,1261.96
+ORD00958,2025-05-16,Chennai,Office Supplies,Backpack,3,1566.93,4700.79,1223.35
+ORD00959,2025-03-25,Lucknow,Furniture,Study Table,2,9006.27,18012.54,3690.5
+ORD00960,2025-03-02,Mumbai,Furniture,Desk Lamp,2,1170.65,2341.3,728.26
+ORD00961,2025-11-05,Pune,Home & Kitchen,Mixer Grinder,1,3282.52,3282.52,349.41
+ORD00962,2025-06-06,Chennai,Clothing,Jacket,2,2899.7,5799.4,886.49
+ORD00963,2025-01-25,Pune,Clothing,Jacket,1,3456.66,3456.66,719.7
+ORD00964,2025-02-04,Chennai,Electronics,Monitor,2,12101.68,24203.36,3204.04
+ORD00965,2025-09-01,Kolkata,Office Supplies,Printer Paper,4,404.42,1617.68,264.89
+ORD00966,2025-03-18,Chennai,Clothing,T-Shirt,4,732.33,2929.32,807.15
+ORD00967,2025-06-23,Jaipur,Office Supplies,Notebook Pack,6,273.95,1643.7,620.9
+ORD00968,2025-12-29,Lucknow,Electronics,Power Bank,3,1604.63,4813.89,911.83
+ORD00969,2025-02-13,Delhi,Furniture,Office Chair,6,6596.11,39576.66,7523.1
+ORD00970,2025-03-03,Ahmedabad,Office Supplies,Printer Paper,6,384.2,2305.2,283.38
+ORD00971,2025-08-16,Delhi,Electronics,Power Bank,3,1482.59,4447.77,654.7
+ORD00972,2025-06-24,Mumbai,Home & Kitchen,Cookware Set,2,2722.81,5445.62,930.01
+ORD00973,2025-02-20,Chennai,Office Supplies,Printer Paper,2,376.07,752.14,160.15
+ORD00974,2025-12-14,Chennai,Furniture,Office Chair,3,6315.17,18945.51,1408.55
+ORD00975,2025-02-20,Mumbai,Clothing,Jeans,2,1554.12,3108.24,746.23
+ORD00976,2025-01-27,Chennai,Furniture,Study Table,4,9260.34,37041.36,4773.77
+ORD00977,2025-02-28,Delhi,Clothing,T-Shirt,2,715.18,1430.36,-119.23
+ORD00978,2025-05-18,Chennai,Office Supplies,Notebook Pack,1,255.51,255.51,98.53
+ORD00979,2025-08-17,Bengaluru,Electronics,Power Bank,1,1669.41,1669.41,333.43
+ORD00980,2025-10-03,Jaipur,Home & Kitchen,Water Bottle,1,485.45,485.45,186.31
+ORD00981,2025-01-01,Bengaluru,Electronics,Monitor,1,11939.94,11939.94,2015.46
+ORD00982,2025-10-27,Chennai,Office Supplies,Stapler,1,191.27,191.27,57.4
+ORD00983,2025-12-24,Lucknow,Electronics,Headphones,3,2015.53,6046.59,1514.82
+ORD00984,2025-06-12,Pune,Clothing,Jacket,6,3378.26,20269.56,3520.46
+ORD00985,2025-06-24,Delhi,Furniture,Desk Lamp,6,1069.49,6416.94,1965.14
+ORD00986,2025-11-08,Kolkata,Home & Kitchen,Mixer Grinder,5,3353.59,16767.95,2785.26
+ORD00987,2025-07-21,Kolkata,Office Supplies,Notebook Pack,4,260.7,1042.8,-107.63
+ORD00988,2025-12-11,Delhi,Electronics,Keyboard,6,1179.36,7076.16,1317.65
+ORD00989,2025-03-05,Pune,Home & Kitchen,Bedsheet,5,1197.37,5986.85,-288.05
+ORD00990,2025-04-09,Pune,Electronics,Power Bank,3,1616.78,4850.34,850.67
+ORD00991,2025-01-19,Chennai,Clothing,Sneakers,5,2955.49,14777.45,2710.98
+ORD00992,2025-02-26,Ahmedabad,Clothing,Sneakers,1,2639.36,2639.36,707.9
+ORD00993,2025-10-17,Bengaluru,Furniture,Office Chair,3,6916.74,20750.22,1875.59
+ORD00994,2025-09-25,Ahmedabad,Clothing,Jeans,4,1448.14,5792.56,1941.49
+ORD00995,2025-05-10,Pune,Office Supplies,Backpack,1,1391.55,1391.55,358.6
+ORD00996,2025-08-10,Delhi,Home & Kitchen,Bedsheet,1,1216.83,1216.83,327.68
+ORD00997,2025-04-25,Pune,Electronics,Keyboard,5,1220.56,6102.8,858.05
+ORD00998,2025-02-11,Bengaluru,Office Supplies,Notebook Pack,6,237.41,1424.46,527.52
+ORD00999,2025-04-11,Delhi,Furniture,Bookshelf,2,4981.05,9962.1,951.14
+ORD01000,2025-10-31,Pune,Clothing,Jacket,1,3213.4,3213.4,910.7
